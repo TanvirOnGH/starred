@@ -35,6 +35,7 @@
 - [Mathematica](#mathematica)
 - [Mojo](#mojo)
 - [NSIS](#nsis)
+- [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -313,7 +314,7 @@
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [Redundakitties/colorful-minimalist](https://github.com/Redundakitties/colorful-minimalist) - collection of sidebery tweaks feat. autohiding & colored tabs
-- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
+- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work even if your processor doesn't support BMI2 instruction set  ✨
 - [KiKaraage/FrameUIforFirefox](https://github.com/KiKaraage/FrameUIforFirefox) - A new way to view your web content in Firefox - With bottom navbar, Sidebery multi tab panels, and sleek Fluent icons
 - [FineFuturity/FrameUIForFirefox](https://github.com/FineFuturity/FrameUIForFirefox) - A new way to view your web content.
 - [open-webui/docs](https://github.com/open-webui/docs) - https://docs.openwebui.com
@@ -358,6 +359,7 @@
 
 ## Go 
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [xbapps/xbvr](https://github.com/xbapps/xbvr) - Tool to organize and stream your VR porn library
 - [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative nixos-generate-config
 - [laktak/zfind](https://github.com/laktak/zfind) - search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter
@@ -606,11 +608,15 @@
 
 - [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
 
+## Nim 
+
+- [arnetheduck/nph](https://github.com/arnetheduck/nph) - An opinionated code formatter for Nim
+
 ## Nix 
 
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [pipelight/crocuda.nixos](https://github.com/pipelight/crocuda.nixos) - A set of nixos modules for paranoids and hypocondriacs
 - [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - my NixOS dotfiles, do what you want
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
@@ -761,6 +767,11 @@
 
 ## Python 
 
+- [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
+- [philz1337x/clarity-lowres-upscaler](https://github.com/philz1337x/clarity-lowres-upscaler) - Low resolution upscaling fix for Clarity AI - Upscale and enhance your images with AI
+- [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
+- [yuchenlin/ZeroEval](https://github.com/yuchenlin/ZeroEval) - A simple unified framework for evaluating LLMs
+- [SanForgeStudio/LuaNodeEditor](https://github.com/SanForgeStudio/LuaNodeEditor) - A powerful and simple visual flow-node IDE for game engines, mods and software.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [kzrtn/unnamed-3k-v2](https://github.com/kzrtn/unnamed-3k-v2) - A simple 3 key QMK hotswap keypad for osu!
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -1052,6 +1063,7 @@
 
 ## Rust 
 
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [juspay/omnix](https://github.com/juspay/omnix) - 🚧 A Nix wrapper providing various useful functionality
 - [reasv/mitsuba](https://github.com/reasv/mitsuba) - Lightweight 4chan board archive software (like Foolfuuka) written in Rust
