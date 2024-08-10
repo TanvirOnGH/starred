@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [Astro](#astro)
+- [Awk](#awk)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -71,6 +72,10 @@
 ## Astro 
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+
+## Awk 
+
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and your scripts.
 
 ## Batchfile 
 
@@ -318,6 +323,7 @@
 
 ## CSS 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
@@ -802,6 +808,9 @@
 
 ## Python 
 
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [XPixelGroup/HAT](https://github.com/XPixelGroup/HAT) - CVPR2023 - Activating More Pixels in Image Super-Resolution Transformer Arxiv - HAT: Hybrid Attention Transformer for Image Restoration
+- [huggingface/parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
 - [Kiteretsu77/APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [Skquark/AI-Friends](https://github.com/Skquark/AI-Friends) - A collection of handy helpers for AI art generation, AI writing and other experimental tools
@@ -900,7 +909,7 @@
 - [mat-sz/metastable](https://github.com/mat-sz/metastable) - 🖼️ A project-based Stable Diffusion Web UI, for easier organization of generated images. Work in progress.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [ehristoforu/DeFooocus](https://github.com/ehristoforu/DeFooocus) - Always focus on prompting and generating
-- [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.
+- [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward diffusion models.
 - [angry-kratos/Simple_Llama3_from_scratch](https://github.com/angry-kratos/Simple_Llama3_from_scratch) - 
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
@@ -1114,6 +1123,7 @@
 
 ## Rust 
 
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
@@ -1134,7 +1144,7 @@
 - [charyan/unirust](https://github.com/charyan/unirust) - Rust programming, in any language. Write rust like a true polyglot.
 - [googlefonts/Inconsolata](https://github.com/googlefonts/Inconsolata) - Development repo of Inconsolata Fonts by Raph Levien
 - [CCBlueX/LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher) - The official Minecraft launcher for LiquidBounce
-- [srid/nixci](https://github.com/srid/nixci) - Define and build CI for Nix projects anywhere
+- [srid/nixci](https://github.com/srid/nixci) - Define and build CI for Nix projects anywhere; superceded by Omnix https://omnix.page/om/ci.html
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
@@ -1229,6 +1239,8 @@
 
 ## TypeScript 
 
+- [OpenModelDB/open-model-database](https://github.com/OpenModelDB/open-model-database) - An open and free database for AI models
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [unsearchapp/unsearch](https://github.com/unsearchapp/unsearch) - Unsearch is an open-source, cross-browser manager for browsing activity.
 - [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader & spinner web components. Made with CSS, HTML and SVG. https://uiball.com/ldrs
 - [RohanVashisht1234/zigistry](https://github.com/RohanVashisht1234/zigistry) - A place where you can find all the libraries that suit your Zig lang needs.
