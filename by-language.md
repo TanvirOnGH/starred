@@ -178,6 +178,8 @@
 
 ## C# # 
 
+- [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+- [Primer-Learning/PrimerToolsUnity](https://github.com/Primer-Learning/PrimerToolsUnity) - Tool used for producing Primer YouTube videos
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [kannagi0303/yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - Windows GUI for yt-dlp
 - [Decimation/SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
@@ -363,6 +365,7 @@
 
 ## Cuda 
 
+- [mobiusml/gemlite](https://github.com/mobiusml/gemlite) - Simple and fast low-bit matmul kernels in CUDA
 - [HanGuo97/flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 - [likejazz/llama3.cuda](https://github.com/likejazz/llama3.cuda) - llama3.cuda is a pure C/CUDA implementation for Llama 3 model.
@@ -388,6 +391,7 @@
 
 ## Go 
 
+- [fluxcd/image-automation-controller](https://github.com/fluxcd/image-automation-controller) - GitOps Toolkit controller that patches container image tags in Git
 - [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [medama-io/medama](https://github.com/medama-io/medama) - Self-hostable, privacy-focused website analytics.
@@ -663,6 +667,9 @@
 
 ## Nix 
 
+- [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
+- [cprussin/mkCli](https://github.com/cprussin/mkCli) - Simple development environment cli generator for nix
+- [RealityAnomaly/nix-rebar](https://github.com/RealityAnomaly/nix-rebar) - common, public utilities and tools shared by my Nix projects
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development (macOS & Linux supported)
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
@@ -830,6 +837,11 @@
 
 ## Python 
 
+- [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
+- [city96/ComfyUI_ExtraModels](https://github.com/city96/ComfyUI_ExtraModels) - Support for miscellaneous image models. Currently supports: DiT, PixArt, HunYuanDiT, MiaoBi, and a few VAEs.
+- [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) - OneTrainer is a one-stop solution for all your stable diffusion training needs.
+- [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
+- [lseancs/GenerativePhotomontage](https://github.com/lseancs/GenerativePhotomontage) - 
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [hsiehjackson/RULER](https://github.com/hsiehjackson/RULER) - This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?
 - [InternLM/lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
@@ -1019,7 +1031,7 @@
 - [lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold 3 in Pytorch
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.
-- [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的可商用开源多模态对话模型
+- [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型
 - [PygmalionAI/aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - PygmalionAI's large-scale inference engine
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) - Visualize the intermediate output of Mistral 7B
 - [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
@@ -1160,8 +1172,9 @@
 
 ## Rust 
 
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [cgsdev0/termsand](https://github.com/cgsdev0/termsand) - 
+- [cgsdev0/termsand](https://github.com/cgsdev0/termsand) - falling sand sim for tmux 3.4+
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) - Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
 - [Mic92/nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
