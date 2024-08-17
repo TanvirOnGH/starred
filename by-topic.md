@@ -85,6 +85,7 @@
 - [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -306,7 +307,7 @@
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe. Culmination of nearly a decade of research into GANs
 - [AviSoori1x/seemore](https://github.com/AviSoori1x/seemore) - From scratch implementation of a vision language model in pure PyTorch
-- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - An intuitive approach to building with LLMs
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [kyegomez/AlphaFold3](https://github.com/kyegomez/AlphaFold3) - Implementation of Alpha Fold 3 from the paper: "Accurate structure prediction of biomolecular interactions with AlphaFold3" in PyTorch
 - [lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold 3 in Pytorch
@@ -1029,6 +1030,11 @@
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
+## https 
+
+- [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
+- [HotCakeX/WinSecureDNSMgr](https://github.com/HotCakeX/WinSecureDNSMgr) - WinSecureDNSMgr module | Quick, proper and automatic way to configure Secure DNS in Windows with multiple available operation modes
+
 ## icon-font 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1216,7 +1222,7 @@
 - [EricLBuehler/xlora](https://github.com/EricLBuehler/xlora) - X-LoRA: Mixture of LoRA Experts
 - [luban-agi/Awesome-LLM-reasoning](https://github.com/luban-agi/Awesome-LLM-reasoning) - A curated paper list on LLM reasoning.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
-- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - An intuitive approach to building with LLMs
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [cpldcpu/MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) - A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
@@ -2221,7 +2227,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
-- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - An intuitive approach to building with LLMs
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [parca-dev/parca-agent](https://github.com/parca-dev/parca-agent) - eBPF based always-on profiler auto-discovering targets in Kubernetes and systemd, zero code changes or restarts needed!
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) - OnionSearch is a script that scrapes urls on different .onion search engines.
