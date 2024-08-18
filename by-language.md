@@ -971,7 +971,7 @@
 - [gentoo/portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [20c/vaping](https://github.com/20c/vaping) - vaping is a healthy alternative to SmokePing!
-- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - An intuitive approach to building with LLMs
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [JieyuZ2/TaskMeAnything](https://github.com/JieyuZ2/TaskMeAnything) - A task generation and model evaluation system.
 - [Psycoy/MixEval](https://github.com/Psycoy/MixEval) - The official evaluation suite and dynamic data release for MixEval.
 - [grapheneX/grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
@@ -1173,6 +1173,7 @@
 
 ## Rust 
 
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [cgsdev0/termsand](https://github.com/cgsdev0/termsand) - falling sand sim for tmux 3.4+
