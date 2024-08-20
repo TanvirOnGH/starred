@@ -400,7 +400,7 @@
 - [medama-io/medama](https://github.com/medama-io/medama) - Self-hostable, privacy-focused website analytics.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [xbapps/xbvr](https://github.com/xbapps/xbvr) - Tool to organize and stream your VR porn library
-- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative nixos-generate-config
+- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative nixos-generate-config [maintainer=@brianmcgee]
 - [laktak/zfind](https://github.com/laktak/zfind) - search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -501,6 +501,7 @@
 
 ## JavaScript 
 
+- [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google 🔎.
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
@@ -581,7 +582,7 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [project-numina/aimo-progress-prize](https://github.com/project-numina/aimo-progress-prize) - 
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
-- [peterdsharpe/AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) - Aircraft design optimization made fast through modern automatic differentiation. Composable analysis tools for aerodynamics, propulsion, structures, trajectory design, and much more.
+- [peterdsharpe/AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) - Aircraft design optimization made fast through computational graph transformations (e.g., automatic differentiation). Composable analysis tools for aerodynamics, propulsion, structures, trajectory des
 - [stephencwelch/self_driving_cars](https://github.com/stephencwelch/self_driving_cars) - Companion code for Self-Driving Car YouTube Series
 - [AviSoori1x/seemore](https://github.com/AviSoori1x/seemore) - From scratch implementation of a vision language model in pure PyTorch
 - [severian42/Vodalus-Expert-LLM-Forge](https://github.com/severian42/Vodalus-Expert-LLM-Forge) - Dataset Crafting w/ RAG/Wikipedia ground truth and Efficient Fine-Tuning Using MLX and Unsloth. Includes configurable dataset annotation editor Gradio UI.
@@ -846,6 +847,8 @@
 
 ## Python 
 
+- [THUDM/LongWriter](https://github.com/THUDM/LongWriter) - LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs
+- [IlyaGusev/ping_pong_bench](https://github.com/IlyaGusev/ping_pong_bench) - 
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
 - [city96/ComfyUI_ExtraModels](https://github.com/city96/ComfyUI_ExtraModels) - Support for miscellaneous image models. Currently supports: DiT, PixArt, HunYuanDiT, MiaoBi, and a few VAEs.
 - [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) - OneTrainer is a one-stop solution for all your stable diffusion training needs.
@@ -1047,7 +1050,7 @@
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [Sebby37/Dead-Internet](https://github.com/Sebby37/Dead-Internet) - Y'all thought the dead internet theory wasn't real, but HERE IT IS
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 - [MiscellaneousStuff/anterion](https://github.com/MiscellaneousStuff/anterion) - Open-source software engineer
@@ -1064,7 +1067,7 @@
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
@@ -1326,7 +1329,7 @@
 ## TypeScript 
 
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
 - [OpenModelDB/open-model-database](https://github.com/OpenModelDB/open-model-database) - An open and free database for AI models
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [unsearchapp/unsearch](https://github.com/unsearchapp/unsearch) - Unsearch is an open-source, cross-browser manager for browsing activity.
