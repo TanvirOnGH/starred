@@ -479,6 +479,7 @@
 
 ## compiler 
 
+- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
@@ -1127,6 +1128,7 @@
 
 ## language 
 
+- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 
@@ -1230,7 +1232,7 @@
 - [cpldcpu/MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) - A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
-- [philfung/perplexed](https://github.com/philfung/perplexed) - Open-source RAG application inspired by Perplexity.
+- [philfung/perplexed](https://github.com/philfung/perplexed) - Open-source RAG application inspired by Perplexity.  Demo: https://philfung.github.io/perplexed
 - [aiplanethub/openagi](https://github.com/aiplanethub/openagi) - Paving the way for open agents and AGI for all.
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -1557,6 +1559,8 @@
 
 ## others 
 
+- [gtw123/OpusSolver](https://github.com/gtw123/OpusSolver) - Autosolver for Opus Magnum puzzles
+- [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
 - [bddvlpr/resonance](https://github.com/bddvlpr/resonance) - My opinionated Nix configurations and modules.
 - [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
 - [IlyaGusev/ping_pong_bench](https://github.com/IlyaGusev/ping_pong_bench) - 
