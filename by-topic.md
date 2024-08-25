@@ -695,6 +695,7 @@
 
 ## discord 
 
+- [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord) - Declarative Vencord plugins + options
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
@@ -1604,6 +1605,10 @@
 
 ## others 
 
+- [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
+- [divergentdave/nsa-o-matic](https://github.com/divergentdave/nsa-o-matic) - NSA headline generator
+- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
+- [project-oak/oak](https://github.com/project-oak/oak) - Meaningful control of data in distributed systems.
 - [RandomInternetPreson/Lucid_Autonomy](https://github.com/RandomInternetPreson/Lucid_Autonomy) - An extension that lets the AI take the wheel, allowing it to use the mouse and keyboard, recognize UI elements, and prompt itself :3
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
 - [askmeegs/papermusic](https://github.com/askmeegs/papermusic) - draw an instrument, then play the notes 🗒️  💛 🎵
@@ -1974,7 +1979,7 @@
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
 - [mozilla/nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla overlay for Nixpkgs.
-- [Nexesenex/kobold.cpp](https://github.com/Nexesenex/kobold.cpp) - Kobold.CPP Frankenstein is a 3rd party testground for KoboldCPP, a simple one-file way to run various GGML/GGUF models with KoboldAI's UI. (for KCCP Frankenstein, in CPU mode, CUDA, CLBLAST, or VULKAN
+- [Nexesenex/crocorico.cpp](https://github.com/Nexesenex/crocorico.cpp) - Crocorico.Cpp is a 3rd party testground for KoboldCPP, a simple one-file way to run various GGML/GGUF models with KoboldAI's UI. (for Crocorico.Cpp, in Cuda mode mainly!)
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 - [shivaraj-bh/ollama-flake](https://github.com/shivaraj-bh/ollama-flake) - Run ollama natively - powered by Nix
@@ -2100,7 +2105,7 @@
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [devspotyt/open-models](https://github.com/devspotyt/open-models) - 
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is yet another fast serving framework for large language models and vision language models.
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can use tools and interpret the results
 - [EGjoni/DRUGS](https://github.com/EGjoni/DRUGS) - Stop messing around with finicky sampling parameters and just use DRµGS!
