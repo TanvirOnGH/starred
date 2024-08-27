@@ -91,6 +91,7 @@
 
 ## C 
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [tycho-kirchner/fastcompmgr](https://github.com/tycho-kirchner/fastcompmgr) - A fast compositor for X11
@@ -247,6 +248,7 @@
 
 ## C++ 
 
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text
@@ -315,7 +317,7 @@
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [intel/neural-speed](https://github.com/intel/neural-speed) - An innovative library for efficient LLM inference via low-bit quantization
 - [amd/RyzenAI-SW](https://github.com/amd/RyzenAI-SW) - 
-- [Nexesenex/crocorico.cpp](https://github.com/Nexesenex/crocorico.cpp) - Crocorico.Cpp is a 3rd party testground for KoboldCPP, a simple one-file way to run various GGML/GGUF models with KoboldAI's UI. (for Crocorico.Cpp, in Cuda mode mainly!)
+- [Nexesenex/croco.cpp](https://github.com/Nexesenex/croco.cpp) - Croco.Cpp is a 3rd party testground for KoboldCPP, a simple one-file way to run various GGML/GGUF models with KoboldAI's UI. (for Crocorico.Cpp, in Cuda mode mainly!)
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [mounta11n/plusplus-camall](https://github.com/mounta11n/plusplus-camall) - After my server ui improvements were successfully merged, consider this repo a playground for experimenting, tinkering and hacking around the ggml library, especially llama.cpp – and primarily its ser
 - [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
@@ -404,6 +406,8 @@
 
 ## Go 
 
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [fluxcd/image-automation-controller](https://github.com/fluxcd/image-automation-controller) - GitOps Toolkit controller that patches container image tags in Git
@@ -771,6 +775,10 @@
 
 ## Others 
 
+- [EvoXCX/EasyEffect-Preset](https://github.com/EvoXCX/EasyEffect-Preset) - Preset for EasyEffect
+- [BayouGuru67/EasyEffects_Presets](https://github.com/BayouGuru67/EasyEffects_Presets) - BayouGuru's EasyEffects Presets!
+- [p-chan5/EasyPulse](https://github.com/p-chan5/EasyPulse) - A set of HQ presets for Easy Effects.
+- [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [divergentdave/nsa-o-matic](https://github.com/divergentdave/nsa-o-matic) - NSA headline generator
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [Zhen-Dong/Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers) - List of papers related to neural network quantization in recent AI conferences and journals.
@@ -868,6 +876,9 @@
 
 ## Python 
 
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+- [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
+- [glomatico/spotify-web-downloader](https://github.com/glomatico/spotify-web-downloader) - A Python CLI app for downloading songs and music videos directly from Spotify.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [Om-Alve/GemmaFromScratch](https://github.com/Om-Alve/GemmaFromScratch) - 
 - [RandomInternetPreson/Lucid_Autonomy](https://github.com/RandomInternetPreson/Lucid_Autonomy) - An extension that lets the AI take the wheel, allowing it to use the mouse and keyboard, recognize UI elements, and prompt itself :3
@@ -1213,6 +1224,7 @@
 
 ## Rust 
 
+- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
 - [project-oak/oak](https://github.com/project-oak/oak) - Meaningful control of data in distributed systems.
@@ -1225,7 +1237,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [cgsdev0/termsand](https://github.com/cgsdev0/termsand) - falling sand sim for tmux 3.4+
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) - Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
-- [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS
+- [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [nix-rust/nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic) - Panic messages for humans.
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
@@ -1315,6 +1327,8 @@
 
 ## Shell 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [bakkeby/flexipatch-finalizer](https://github.com/bakkeby/flexipatch-finalizer) - A custom pre-processor for removing non-selected patches from flexipatch builds leaving a final patched build
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
@@ -1365,6 +1379,7 @@
 
 ## TypeScript 
 
+- [djgish485/ballistic-ai](https://github.com/djgish485/ballistic-ai) - Prompt-based software development
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
