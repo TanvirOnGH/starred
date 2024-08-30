@@ -52,6 +52,7 @@
 - [Processing](#processing)
 - [Python](#python)
 - [QML](#qml)
+- [Ren'Py](#ren'py)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -91,6 +92,13 @@
 
 ## C 
 
+- [ioquake/ioq3](https://github.com/ioquake/ioq3) - The ioquake3 community effort to continue supporting/developing id's Quake III Arena
+- [id-Software/Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
+- [id-Software/Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
+- [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
+- [mattiasgustavsson/doom-crt](https://github.com/mattiasgustavsson/doom-crt) - Original version of DOOM with my CRT shader applied
+- [Keriew/augustus](https://github.com/Keriew/augustus) - An open source re-implementation of Caesar III
+- [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
@@ -183,7 +191,9 @@
 
 ## C# # 
 
-- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
+- [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+- [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
+- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
 - [mxgmn/TextureSynthesis](https://github.com/mxgmn/TextureSynthesis) - Texture synthesis from examples
 - [mxgmn/ConvChain](https://github.com/mxgmn/ConvChain) - Bitmap generation from a single example with convolutions and MCMC
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
@@ -248,6 +258,13 @@
 
 ## C++ 
 
+- [0ad/0ad](https://github.com/0ad/0ad) - Git mirror of the 0 A.D. source code (http://trac.wildfiregames.com/browser)
+- [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
+- [id-Software/DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
@@ -406,6 +423,9 @@
 
 ## Go 
 
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
@@ -498,6 +518,8 @@
 
 ## Java 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+- [methusalah/OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [openrocket/openrocket](https://github.com/openrocket/openrocket) - Model-rocketry aerodynamics and trajectory simulation software
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
@@ -517,6 +539,7 @@
 
 ## JavaScript 
 
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [enjeck/num2math](https://github.com/enjeck/num2math) - Complicated math expression generator
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google 🔎.
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
@@ -693,6 +716,7 @@
 
 ## Nix 
 
+- [xiro-codes/youtube.nix](https://github.com/xiro-codes/youtube.nix) - yt-dlp service module for nixos
 - [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord) - Declarative Vencord plugins + options
 - [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake) - Nix Flake for the Zen Browser
 - [nspin/whonix-now](https://github.com/nspin/whonix-now) - Whonix on KVM in Linux containers
@@ -775,6 +799,8 @@
 
 ## Others 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [lucidrains/gamengen-pytorch](https://github.com/lucidrains/gamengen-pytorch) - Implementation of a framework for Gamengen in Pytorch
 - [EvoXCX/EasyEffect-Preset](https://github.com/EvoXCX/EasyEffect-Preset) - Preset for EasyEffect
 - [BayouGuru67/EasyEffects_Presets](https://github.com/BayouGuru67/EasyEffects_Presets) - BayouGuru's EasyEffects Presets!
 - [p-chan5/EasyPulse](https://github.com/p-chan5/EasyPulse) - A set of HQ presets for Easy Effects.
@@ -876,6 +902,9 @@
 
 ## Python 
 
+- [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
@@ -1214,6 +1243,10 @@
 
 - [status-im/status-desktop](https://github.com/status-im/status-desktop) - Status Desktop client made in Nim & QML
 
+## Ren'Py 
+
+- [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
+
 ## Rich Text Format 
 
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
@@ -1226,6 +1259,7 @@
 
 ## Rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [HEnquist/camilladsp](https://github.com/HEnquist/camilladsp) - A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.
@@ -1323,6 +1357,7 @@
 
 ## Scala 
 
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [MightyPirates/OpenComputers](https://github.com/MightyPirates/OpenComputers) - Home of the OpenComputers mod for Minecraft.
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
@@ -1381,6 +1416,7 @@
 
 ## TypeScript 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [djgish485/ballistic-ai](https://github.com/djgish485/ballistic-ai) - Prompt-based software development
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
@@ -1459,6 +1495,7 @@
 
 ## Visual Basic .NET 
 
+- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 - [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
@@ -1466,6 +1503,7 @@
 
 ## Vue 
 
+- [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 
