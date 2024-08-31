@@ -629,7 +629,7 @@
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
-- [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications Anywhere On The Screen
+- [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - The Ultimate Notification Customization Tool For Windows
 - [simeononsecurity/Windows-Optimize-Harden-Debloat-GUI](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat-GUI) - C# Based GUI for Windows-Optimize-Harden-Debloat
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -691,6 +691,7 @@
 
 ## deep-learning 
 
+- [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
@@ -906,6 +907,7 @@
 
 ## frontend 
 
+- [bookracy/frontend](https://github.com/bookracy/frontend) - Frontend for Bookracy
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
@@ -1171,7 +1173,7 @@
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
-- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -1343,6 +1345,7 @@
 
 ## linux 
 
+- [DaniAsh551/wemod-launcher](https://github.com/DaniAsh551/wemod-launcher) - Tool made to launch the popular Game Trainer / Cheat tool WeMod along with your game (made for steam-runtime version in Linux).
 - [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.5.2 / Gravity Bending Puzzle Platformer Game
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
@@ -1396,7 +1399,7 @@
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -1525,6 +1528,7 @@
 
 ## machine-learning 
 
+- [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [mxgmn/TextureSynthesis](https://github.com/mxgmn/TextureSynthesis) - Texture synthesis from examples
 - [mxgmn/ConvChain](https://github.com/mxgmn/ConvChain) - Bitmap generation from a single example with convolutions and MCMC
@@ -1653,6 +1657,7 @@
 
 ## music 
 
+- [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
 - [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 80+ CLI tools to build, browse, and blend your media library: an index for your archive.
@@ -1754,6 +1759,7 @@
 
 ## open-source 
 
+- [trypear/pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
 - [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.5.2 / Gravity Bending Puzzle Platformer Game
 - [Quaver/Quaver](https://github.com/Quaver/Quaver) - The ultimate community-driven, and open-source competitive rhythm game available on Steam.
 - [ZeroK-RTS/Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
@@ -1802,6 +1808,11 @@
 
 ## others 
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+- [brunolee-GIT/GSE-Generator](https://github.com/brunolee-GIT/GSE-Generator) - Goldberg Steam Emulator Generator
+- [brunolee-GIT/W3M0dP4tch32](https://github.com/brunolee-GIT/W3M0dP4tch32) - W3M0dP4tch32 t0 P4tch W3M0d
 - [jasonrohrer/OneLife](https://github.com/jasonrohrer/OneLife) - a multiplayer survival game of parenting and civilization building
 - [McKay42/McOsu](https://github.com/McKay42/McOsu) - Custom unofficial osu! practice client with Virtual Reality support
 - [zenorogue/hyperrogue](https://github.com/zenorogue/hyperrogue) - A SDL roguelike in a non-euclidean world
@@ -2522,6 +2533,7 @@
 
 ## python 
 
+- [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [AkshitIreddy/Interactive-LLM-Powered-NPCs](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) - Interactive LLM Powered NPCs, is an open-source project that completely transforms your interaction with non-player characters (NPCs) in any game! 🎮🤖🚀
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
@@ -2558,7 +2570,7 @@
 - [parca-dev/parca-agent](https://github.com/parca-dev/parca-agent) - eBPF based always-on profiler auto-discovering targets in Kubernetes and systemd, zero code changes or restarts needed!
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) - OnionSearch is a script that scrapes urls on different .onion search engines.
-- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [VedankPurohit/LiveRecall](https://github.com/VedankPurohit/LiveRecall) - Welcome to **LiveRecall**, the open-source alternative to Microsoft's Recall. LiveRecall captures snapshots of your screen and allows you to recall them using natural language queries, leveraging sema
 - [squaredtechnologies/vizly-notebook](https://github.com/squaredtechnologies/vizly-notebook) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
@@ -2587,7 +2599,7 @@
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
-- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [zeronet-conservancy/zeronet-conservancy](https://github.com/zeronet-conservancy/zeronet-conservancy) - zeronet-conservancy is a client for decentralized p2p web 0net, focusing on preserving 0net and transition to riza network
 
 ## pytorch 
@@ -3085,7 +3097,7 @@
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-- [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications Anywhere On The Screen
+- [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - The Ultimate Notification Customization Tool For Windows
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat-GUI](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat-GUI) - C# Based GUI for Windows-Optimize-Harden-Debloat
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
@@ -3094,7 +3106,7 @@
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
