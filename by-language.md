@@ -84,6 +84,7 @@
 
 ## Batchfile 
 
+- [brunolee-GIT/GSE-Generator](https://github.com/brunolee-GIT/GSE-Generator) - Goldberg Steam Emulator Generator
 - [Alex313031/Windows-10-Stuffz](https://github.com/Alex313031/Windows-10-Stuffz) - Windows 8 - 10 equivalent to my other Windows-7-Stuffz and Windows-XP-Stuffz
 - [Alex313031/Windows-7-Stuffz](https://github.com/Alex313031/Windows-7-Stuffz) - Files for Windows 7 that are hard to find because Microsoft took them down.
 - [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11) - 🌎 Windows 11 Settings, Tweaks, Scripts
@@ -92,6 +93,16 @@
 
 ## C 
 
+- [sphincs/sphincsplus](https://github.com/sphincs/sphincsplus) - The SPHINCS+ reference code, accompanying the submission to NIST's  Post-Quantum Cryptography project
+- [pq-crystals/dilithium](https://github.com/pq-crystals/dilithium) - 
+- [PQClean/PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography
+- [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
+- [pq-crystals/kyber](https://github.com/pq-crystals/kyber) - 
+- [vittorioromeo/SSVOpenHexagon](https://github.com/vittorioromeo/SSVOpenHexagon) - C++20 FOSS clone of "Super Hexagon". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-
+- [naev/naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.
+- [milgra/cortex](https://github.com/milgra/cortex) - The psychedelic tunnel-runner
+- [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit 
+- [XProger/OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) - The ioquake3 community effort to continue supporting/developing id's Quake III Arena
 - [id-Software/Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
 - [id-Software/Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
@@ -191,6 +202,11 @@
 
 ## C# # 
 
+- [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
+- [Quaver/Quaver](https://github.com/Quaver/Quaver) - The ultimate community-driven, and open-source competitive rhythm game available on Steam.
+- [Blecki/dwarfcorp](https://github.com/Blecki/dwarfcorp) - An open-source 3D colony management game for PC, Mac and Linux
+- [manicdigger/manicdigger](https://github.com/manicdigger/manicdigger) - Manic Digger -  a multiplayer block-building voxel game, Minecraft clone
+- [OpenHV/OpenHV](https://github.com/OpenHV/OpenHV) - An Open Source Pixelart Science-Fiction Real-Time-Strategy game
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
@@ -224,7 +240,7 @@
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [OmenMon/OmenMon](https://github.com/OmenMon/OmenMon) - Monitor temperature, control fan speeds, backlight color and more using WMI BIOS and the Embedded Controller. Lightweight, runs in the background with minimal footprint. Has a command-line mode too.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
-- [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications Anywhere On The Screen
+- [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - The Ultimate Notification Customization Tool For Windows
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - 
@@ -258,6 +274,18 @@
 
 ## C++ 
 
+- [jasonrohrer/OneLife](https://github.com/jasonrohrer/OneLife) - a multiplayer survival game of parenting and civilization building
+- [McKay42/McOsu](https://github.com/McKay42/McOsu) - Custom unofficial osu! practice client with Virtual Reality support
+- [zenorogue/hyperrogue](https://github.com/zenorogue/hyperrogue) - A SDL roguelike in a non-euclidean world
+- [Blackvoxel/Blackvoxel](https://github.com/Blackvoxel/Blackvoxel) - Blackvoxel Video Game
+- [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
+- [freeminer/freeminer](https://github.com/freeminer/freeminer) - Freeminer is an open source sandbox game inspired by Minecraft.
+- [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
+- [stefanhendriks/Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker) - A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
+- [rwengine/openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
+- [halpz/re3](https://github.com/halpz/re3) - 
+- [OpenXcom/OpenXcom](https://github.com/OpenXcom/OpenXcom) - Open-source clone of the original X-Com 👽
+- [opentomb/OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake
 - [0ad/0ad](https://github.com/0ad/0ad) - Git mirror of the 0 A.D. source code (http://trac.wildfiregames.com/browser)
 - [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
 - [id-Software/DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
@@ -365,6 +393,7 @@
 
 ## CSS 
 
+- [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
@@ -405,6 +434,7 @@
 
 ## Dart 
 
+- [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is a Wayland compositor providing an innovative workflow that utilizes humans natural spatial cognition to enhance navigation and organization in the digital environment.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
 
@@ -414,6 +444,7 @@
 
 ## GDScript 
 
+- [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.5.2 / Gravity Bending Puzzle Platformer Game
 - [ShadowBlip/OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Open source gamepad-native game launcher and overlay
 
 ## GLSL 
@@ -518,6 +549,7 @@
 
 ## Java 
 
+- [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [methusalah/OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in pure java
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
@@ -539,6 +571,8 @@
 
 ## JavaScript 
 
+- [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [enjeck/num2math](https://github.com/enjeck/num2math) - Complicated math expression generator
 - [mattrltrent/github_painter](https://github.com/mattrltrent/github_painter) - 🎨 Create a custom design for your GitHub Commit Contribution Graph. 1st on Google 🔎.
@@ -672,6 +706,10 @@
 
 ## Lua 
 
+- [ZeroK-RTS/Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
+- [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - Opinionated config for Awesome window manager.
+- [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
+- [suconakh/awesome-awesome-rc](https://github.com/suconakh/awesome-awesome-rc) - Modularized AwesomeWM rc.lua
 - [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
 - [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - Bringing multiplayer to BeamNG.drive
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
@@ -716,6 +754,8 @@
 
 ## Nix 
 
+- [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
+- [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [xiro-codes/youtube.nix](https://github.com/xiro-codes/youtube.nix) - yt-dlp service module for nixos
 - [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord) - Declarative Vencord plugins + options
 - [MarceColl/zen-browser-flake](https://github.com/MarceColl/zen-browser-flake) - Nix Flake for the Zen Browser
@@ -799,6 +839,12 @@
 
 ## Others 
 
+- [brunolee-GIT/W3M0dP4tch32](https://github.com/brunolee-GIT/W3M0dP4tch32) - W3M0dP4tch32 t0 P4tch W3M0d
+- [Poussinou/FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) - A list of FLOSS games available on Steam (75 so far)
+- [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
+- [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
+- [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) - 🎨 A curated list of awesome themes, tools and apps for customizing the Linux environment.
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [lucidrains/gamengen-pytorch](https://github.com/lucidrains/gamengen-pytorch) - Implementation of a framework for Gamengen in Pytorch
 - [EvoXCX/EasyEffect-Preset](https://github.com/EvoXCX/EasyEffect-Preset) - Preset for EasyEffect
@@ -902,6 +948,8 @@
 
 ## Python 
 
+- [DaniAsh551/wemod-launcher](https://github.com/DaniAsh551/wemod-launcher) - Tool made to launch the popular Game Trainer / Cheat tool WeMod along with your game (made for steam-runtime version in Linux).
+- [AkshitIreddy/Interactive-LLM-Powered-NPCs](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) - Interactive LLM Powered NPCs, is an open-source project that completely transforms your interaction with non-player characters (NPCs) in any game! 🎮🤖🚀
 - [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -1067,7 +1115,7 @@
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [nivibilla/build-nanogpt](https://github.com/nivibilla/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
-- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [pranavjad/tinyllama-bitnet](https://github.com/pranavjad/tinyllama-bitnet) - Train your own small bitnet model
 - [pranavjad/mlx-gpt2](https://github.com/pranavjad/mlx-gpt2) - gpt-2 from scratch in mlx
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
@@ -1253,12 +1301,15 @@
 
 ## Ruby 
 
+- [numinit/string-option](https://github.com/numinit/string-option) - A cursed way to pass arbitrary string options to flakes.
 - [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 
 ## Rust 
 
+- [frnsys/half_earth](https://github.com/frnsys/half_earth) - Half-Earth Socialism: The Game, for Half-Earth Socialism (Verso 2022)
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1353,6 +1404,8 @@
 
 ## SCSS 
 
+- [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
+- [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 
 ## Scala 
@@ -1364,6 +1417,10 @@
 
 ## Shell 
 
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
+- [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
@@ -1396,6 +1453,7 @@
 
 ## Svelte 
 
+- [Vaisakhkm2625/plymouth-themes-galary](https://github.com/Vaisakhkm2625/plymouth-themes-galary) - simple preview of adi1090x/plymouth-themes
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -1416,6 +1474,9 @@
 
 ## TypeScript 
 
+- [trypear/pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
+- [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
+- [salatine/ricing.online](https://github.com/salatine/ricing.online) - ricing.online allows one to create a beautiful rice for the awesome window manager.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [djgish485/ballistic-ai](https://github.com/djgish485/ballistic-ai) - Prompt-based software development
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits
