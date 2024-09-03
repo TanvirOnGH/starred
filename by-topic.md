@@ -214,6 +214,7 @@
 
 ## ai 
 
+- [Pbatch/ClashRoyaleBuildABot](https://github.com/Pbatch/ClashRoyaleBuildABot) - A platform for creating bots to play Clash Royale
 - [AkshitIreddy/Interactive-LLM-Powered-NPCs](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) - Interactive LLM Powered NPCs, is an open-source project that completely transforms your interaction with non-player characters (NPCs) in any game! 🎮🤖🚀
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -323,6 +324,7 @@
 
 ## archlinux 
 
+- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -369,6 +371,7 @@
 
 ## awesome 
 
+- [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
@@ -428,6 +431,7 @@
 
 ## bash 
 
+- [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
@@ -459,6 +463,8 @@
 
 ## c 
 
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
@@ -598,6 +604,7 @@
 
 ## computer-vision 
 
+- [Pbatch/ClashRoyaleBuildABot](https://github.com/Pbatch/ClashRoyaleBuildABot) - A platform for creating bots to play Clash Royale
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
 - [AkshitIreddy/Interactive-LLM-Powered-NPCs](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) - Interactive LLM Powered NPCs, is an open-source project that completely transforms your interaction with non-player characters (NPCs) in any game! 🎮🤖🚀
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
@@ -614,6 +621,7 @@
 
 ## config 
 
+- [ianyepan/yay-evil-emacs](https://github.com/ianyepan/yay-evil-emacs) - 😈 A lightweight literate Emacs config with even better "better defaults". Shipped with a custom theme!
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - Opinionated config for Awesome window manager.
 
@@ -686,6 +694,7 @@
 
 ## css 
 
+- [stashapp/CommunityScripts](https://github.com/stashapp/CommunityScripts) - This is a public repository containing plugin and utility scripts created by the Stash Community.
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [Redundakitties/colorful-minimalist](https://github.com/Redundakitties/colorful-minimalist) - collection of sidebery tweaks feat. autohiding & colored tabs
@@ -740,6 +749,7 @@
 
 ## deep-learning 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [lucidrains/gamengen-pytorch](https://github.com/lucidrains/gamengen-pytorch) - Implementation of a framework for Gamengen in Pytorch
@@ -852,6 +862,10 @@
 
 ## dotfiles 
 
+- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+- [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
+- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
@@ -901,6 +915,10 @@
 
 ## emacs 
 
+- [ianyepan/yay-evil-emacs](https://github.com/ianyepan/yay-evil-emacs) - 😈 A lightweight literate Emacs config with even better "better defaults". Shipped with a custom theme!
+- [jkitchin/scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
+- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
@@ -913,6 +931,7 @@
 
 ## ethereum 
 
+- [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - Generative Art Marketplace
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [Unirep/Unirep](https://github.com/Unirep/Unirep) - A Zero-Knowledge Protocol for Provable User Data Management
@@ -1060,6 +1079,7 @@
 
 ## gamedev 
 
+- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.5.2 / Gravity Bending Puzzle Platformer Game
 - [vittorioromeo/SSVOpenHexagon](https://github.com/vittorioromeo/SSVOpenHexagon) - C++20 FOSS clone of "Super Hexagon". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-
@@ -1109,6 +1129,7 @@
 
 ## go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
@@ -1138,6 +1159,7 @@
 
 ## golang 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
@@ -1205,6 +1227,10 @@
 
 ## hacktoberfest 
 
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [stashapp/CommunityScripts](https://github.com/stashapp/CommunityScripts) - This is a public repository containing plugin and utility scripts created by the Stash Community.
+- [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -1318,6 +1344,9 @@
 
 ## http 
 
+- [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
+- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
@@ -1325,6 +1354,8 @@
 
 ## https 
 
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [HotCakeX/WinSecureDNSMgr](https://github.com/HotCakeX/WinSecureDNSMgr) - WinSecureDNSMgr module | Quick, proper and automatic way to configure Secure DNS in Windows with multiple available operation modes
 
@@ -1371,6 +1402,8 @@
 
 ## javascript 
 
+- [stashapp/CommunityScripts](https://github.com/stashapp/CommunityScripts) - This is a public repository containing plugin and utility scripts created by the Stash Community.
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles) - A curated list of inspiring GitHub profiles from developers, designers, and tech enthusiasts around the world. This collection showcases profiles known for creativity, contributions, and innovative pr
@@ -1446,12 +1479,15 @@
 
 ## library 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
 - [tukaani-project/xz](https://github.com/tukaani-project/xz) - XZ Utils
 
 ## linux 
 
+- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
+- [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [panaceya/winbox](https://github.com/panaceya/winbox) - Snap package with winbox from MikroTik (https://mikrotik.com)
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1596,7 +1632,7 @@
 - [mobiusml/hqq](https://github.com/mobiusml/hqq) - Official implementation of Half-Quadratic Quantization (HQQ)
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [janhq/cortex](https://github.com/janhq/cortex) - Drop-in, local AI alternative to the OpenAI stack. Multi-engine (llama.cpp, TensorRT-LLM, ONNX). Powers 👋 Jan
-- [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
+- [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [Fuzzy-Search/realtime-bakllava](https://github.com/Fuzzy-Search/realtime-bakllava) - llama.cpp with BakLLaVA model describes what does it see
@@ -1620,6 +1656,15 @@
 
 ## lua 
 
+- [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+- [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
+- [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
+- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
+- [nvoid-lua/nvoid](https://github.com/nvoid-lua/nvoid) - nvim with lua is cool
+- [Shaobin-Jiang/IceNvim](https://github.com/Shaobin-Jiang/IceNvim) - A beautiful, powerful and customizable neovim config that is blazing fast
+- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -1646,6 +1691,8 @@
 
 ## machine-learning 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
+- [Pbatch/ClashRoyaleBuildABot](https://github.com/Pbatch/ClashRoyaleBuildABot) - A platform for creating bots to play Clash Royale
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [mxgmn/TextureSynthesis](https://github.com/mxgmn/TextureSynthesis) - Texture synthesis from examples
@@ -1670,7 +1717,7 @@
 - [PABannier/bark.cpp](https://github.com/PABannier/bark.cpp) - Suno AI's Bark model in C/C++ for fast text-to-speech
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [PygmalionAI/aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - PygmalionAI's large-scale inference engine
+- [PygmalionAI/aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - Large-scale LLM inference engine
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
@@ -1727,6 +1774,7 @@
 
 ## material-design 
 
+- [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 
 ## matlab 
@@ -1803,6 +1851,15 @@
 
 ## neovim 
 
+- [pgosar/CyberNvim](https://github.com/pgosar/CyberNvim) - CyberNvim: A IDE-like Neovim distribution. Simplicity is Power.
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+- [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
+- [comfysage/chaivim](https://github.com/comfysage/chaivim) - :tea: easily configurable neovim system with solid defaults and a cozy editor experience.
+- [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim) - A Neovim configuration for the advanced martian hacker
+- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
+- [nvoid-lua/nvoid](https://github.com/nvoid-lua/nvoid) - nvim with lua is cool
+- [Shaobin-Jiang/IceNvim](https://github.com/Shaobin-Jiang/IceNvim) - A beautiful, powerful and customizable neovim config that is blazing fast
+- [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
@@ -1952,6 +2009,16 @@
 
 ## others 
 
+- [eksopl/asagi](https://github.com/eksopl/asagi) - Asagi imageboard dumper
+- [FoolCode/FoolFuuka](https://github.com/FoolCode/FoolFuuka) - FoolFuuka is a high performance imageboard software that is fully customizable. It contains a powerful administration system, extendable plugin engine, and etc. (FoolCode Package)
+- [eksopl/fuuka](https://github.com/eksopl/fuuka) - Fuuka Imageboard Archiver
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
+- [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
+- [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - [ECCV 2024] Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
+- [MSU-AI/clash-royale-gym](https://github.com/MSU-AI/clash-royale-gym) - Clash Royale Reinforcement Learning AI
+- [zzbuzzard/pixartdiffusion](https://github.com/zzbuzzard/pixartdiffusion) - An experiment training a diffusion model on 32x32 pixel art characters
 - [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
 - [sohag1192/BDIX-IPTV](https://github.com/sohag1192/BDIX-IPTV) - IPTV M3U8 FILE, EVERY DAY UPDATES, (FREE IPTV FILE) 100% WORKING
 - [microsoft/routeros-scanner](https://github.com/microsoft/routeros-scanner) - Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.
@@ -2588,6 +2655,7 @@
 
 ## package-manager 
 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [gentoo/portage](https://github.com/gentoo/portage) - [MIRROR] Package management system
@@ -2618,6 +2686,7 @@
 
 ## php 
 
+- [lainchan/lainchan](https://github.com/lainchan/lainchan) - The version of vichan running on lainchan.org
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## powershell 
@@ -2698,6 +2767,10 @@
 
 ## python 
 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+- [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
+- [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
+- [stashapp/CommunityScripts](https://github.com/stashapp/CommunityScripts) - This is a public repository containing plugin and utility scripts created by the Stash Community.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
@@ -2773,6 +2846,7 @@
 
 ## pytorch 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
@@ -2830,6 +2904,7 @@
 
 ## react 
 
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits
@@ -2883,6 +2958,7 @@
 
 ## robotics 
 
+- [Pbatch/ClashRoyaleBuildABot](https://github.com/Pbatch/ClashRoyaleBuildABot) - A platform for creating bots to play Clash Royale
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 - [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
@@ -2895,6 +2971,7 @@
 
 ## rust 
 
+- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
@@ -2963,6 +3040,7 @@
 
 ## security 
 
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
@@ -3113,6 +3191,7 @@
 
 ## svelte 
 
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
 - [juxtopposed/stacksorted](https://github.com/juxtopposed/stacksorted) - Find Inspiration in Design Elements.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
@@ -3178,6 +3257,7 @@
 
 ## typescript 
 
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
@@ -3215,6 +3295,11 @@
 
 ## vim 
 
+- [pgosar/CyberNvim](https://github.com/pgosar/CyberNvim) - CyberNvim: A IDE-like Neovim distribution. Simplicity is Power.
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+- [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
+- [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - neovim as an IDE
+- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
@@ -3240,12 +3325,14 @@
 
 ## vue 
 
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## vuejs 
 
+- [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 
@@ -3388,6 +3475,7 @@
 
 ## zig 
 
+- [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [judofyr/spice](https://github.com/judofyr/spice) - Fine-grained parallelism with sub-nanosecond overhead in Zig
 
