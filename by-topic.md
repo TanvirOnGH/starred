@@ -968,6 +968,9 @@
 
 ## firefox 
 
+- [PraxiveSoftware/Samurai](https://github.com/PraxiveSoftware/Samurai) - 🐉 Build firefox forks with ease. Fork of the gluon project improved for windows.
+- [pulse-browser/gluon](https://github.com/pulse-browser/gluon) - Build firefox forks with ease
+- [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
@@ -984,7 +987,7 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding 🐉 (mirrored from GitLab)
+- [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
@@ -1190,6 +1193,7 @@
 
 ## golang 
 
+- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
@@ -1258,6 +1262,7 @@
 
 ## hacktoberfest 
 
+- [pulse-browser/gluon](https://github.com/pulse-browser/gluon) - Build firefox forks with ease
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [stashapp/CommunityScripts](https://github.com/stashapp/CommunityScripts) - This is a public repository containing plugin and utility scripts created by the Stash Community.
@@ -1521,6 +1526,7 @@
 
 ## linux 
 
+- [PraxiveSoftware/Samurai](https://github.com/PraxiveSoftware/Samurai) - 🐉 Build firefox forks with ease. Fork of the gluon project improved for windows.
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
@@ -1776,6 +1782,7 @@
 
 ## macos 
 
+- [PraxiveSoftware/Samurai](https://github.com/PraxiveSoftware/Samurai) - 🐉 Build firefox forks with ease. Fork of the gluon project improved for windows.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
@@ -1997,6 +2004,7 @@
 
 ## npm 
 
+- [PraxiveSoftware/Samurai](https://github.com/PraxiveSoftware/Samurai) - 🐉 Build firefox forks with ease. Fork of the gluon project improved for windows.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -2651,7 +2659,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - Official Implementation of EAGLE-1 and EAGLE-2
-- [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Run LLMs locally. Multi-engine support (llama.cpp, TensorRT-LLM and ONNX)
+- [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Run and customize Local LLMs.
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - [ICML 2024] Break the Sequential Dependency of LLM Inference Using Lookahead Decoding
 - [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
@@ -2789,7 +2797,7 @@
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding 🐉 (mirrored from GitLab)
+- [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - Set up your brand new Windows device up to a breathtaking 60 times faster.
@@ -3351,6 +3359,7 @@
 
 ## typescript 
 
+- [PraxiveSoftware/Samurai](https://github.com/PraxiveSoftware/Samurai) - 🐉 Build firefox forks with ease. Fork of the gluon project improved for windows.
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
@@ -3456,6 +3465,7 @@
 
 ## windows 
 
+- [PraxiveSoftware/Samurai](https://github.com/PraxiveSoftware/Samurai) - 🐉 Build firefox forks with ease. Fork of the gluon project improved for windows.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
