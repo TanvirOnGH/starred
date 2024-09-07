@@ -31,6 +31,7 @@
 - [Idris](#idris)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [KiCad Layout](#kicad-layout)
@@ -100,6 +101,8 @@
 
 ## C 
 
+- [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
@@ -256,7 +259,7 @@
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - The Ultimate Notification Customization Tool For Windows
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
-- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - 
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
@@ -288,6 +291,7 @@
 
 ## C++ 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
@@ -489,6 +493,7 @@
 
 ## Go 
 
+- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -506,14 +511,13 @@
 - [medama-io/medama](https://github.com/medama-io/medama) - Self-hostable, privacy-focused website analytics.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [xbapps/xbvr](https://github.com/xbapps/xbvr) - Tool to organize and stream your VR porn library
-- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative nixos-generate-config [maintainer=@brianmcgee]
+- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative nixos-generate-config [maintainer=@numtide]
 - [laktak/zfind](https://github.com/laktak/zfind) - search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [pojntfx/multiplex](https://github.com/pojntfx/multiplex) - Watch torrents with your friends.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [symflower/eval-dev-quality](https://github.com/symflower/eval-dev-quality) - DevQualityEval: An evaluation benchmark 📈 and framework to compare and evolve the quality of code generation of LLMs.
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -562,6 +566,7 @@
 - [VoronDesign/Voron-Hardware](https://github.com/VoronDesign/Voron-Hardware) - Cool Hardware designed by the Voron Design group
 - [starsnatched/neurasim](https://github.com/starsnatched/neurasim) - Pretty accurate simulation of neurons.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
+- [EurekaLabsAI/micrograd](https://github.com/EurekaLabsAI/micrograd) - The Autograd Engine
 - [AleDenshi/comfy.guide](https://github.com/AleDenshi/comfy.guide) - Comfortable computer tutorials.
 - [Alex313031/Windows-XP-Stuffz](https://github.com/Alex313031/Windows-XP-Stuffz) - Files for Windows XP that are hard to find because Microsoft took them down, updates, and programs for XP and XP x64.
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
@@ -619,6 +624,7 @@
 
 ## JavaScript 
 
+- [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [lainchan/lainchan](https://github.com/lainchan/lainchan) - The version of vichan running on lainchan.org
 - [stashapp/CommunityScripts](https://github.com/stashapp/CommunityScripts) - This is a public repository containing plugin and utility scripts created by the Stash Community.
@@ -698,6 +704,10 @@
 - [mut-ex/gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 - [Psyyke/A.C.A.S](https://github.com/Psyyke/A.C.A.S) - Advanced Chess Assistance System (Chess Cheat) for Chess.com, Lichess.org, Pychess.org and more. Hassle-free 1-click install, no downloading. All devices and browsers supported.
 - [zeronet-conservancy/zeronet-conservancy](https://github.com/zeronet-conservancy/zeronet-conservancy) - zeronet-conservancy is a client for decentralized p2p web 0net, focusing on preserving 0net and transition to riza network
+
+## Jinja 
+
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Jupyter Notebook 
 
@@ -815,7 +825,7 @@
 
 ## Makefile 
 
-- [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding 🐉 (mirrored from GitLab)
+- [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
 
 ## Markdown 
@@ -1187,7 +1197,6 @@
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit
 - [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [EurekaLabsAI/micrograd](https://github.com/EurekaLabsAI/micrograd) - The Autograd Engine
 - [yk/gpt-4chan-public](https://github.com/yk/gpt-4chan-public) - Code for GPT-4chan
 - [catalpaaa/Mamba-4chan-2](https://github.com/catalpaaa/Mamba-4chan-2) - 
 - [hkproj/mistral-src-commented](https://github.com/hkproj/mistral-src-commented) - Reference implementation of Mistral AI 7B v0.1 model.
@@ -1634,6 +1643,8 @@
 
 ## TypeScript 
 
+- [PraxiveSoftware/Samurai](https://github.com/PraxiveSoftware/Samurai) - 🐉 Build firefox forks with ease. Fork of the gluon project improved for windows.
+- [pulse-browser/gluon](https://github.com/pulse-browser/gluon) - Build firefox forks with ease
 - [damien-schneider/cuicui](https://github.com/damien-schneider/cuicui) - CuiCui is a collection of high-quality, reusable components designed to streamline the development of your web applications. With a focus on providing essential UI elements, pre-built blocks, and temp
 - [funmaker/Hybooru](https://github.com/funmaker/Hybooru) - Hydrus-based booru-styled imageboard in React
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
@@ -1664,6 +1675,7 @@
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [WofWca/jumpcutter](https://github.com/WofWca/jumpcutter) - ⏩ Fast-forwards long pauses between sentences — watch lectures ~1.5x faster (browser extension)
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
