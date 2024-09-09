@@ -31,6 +31,7 @@
 - [Haskell](#haskell)
 - [HolyC](#holyc)
 - [Idris](#idris)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -74,6 +75,7 @@
 - [TeX](#tex)
 - [Text](#text)
 - [TypeScript](#typescript)
+- [V](#v)
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
@@ -81,6 +83,7 @@
 
 ## Assembly 
 
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 - [kb-elmo/sesame](https://github.com/kb-elmo/sesame) - Alice type ergo keyboard using only THT parts
 
@@ -103,6 +106,9 @@
 
 ## C 
 
+- [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - WiFi security auditing tools suite
+- [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites
+- [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
@@ -221,6 +227,9 @@
 
 ## C# # 
 
+- [jsuarezruiz/maui-linux](https://github.com/jsuarezruiz/maui-linux) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+- [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+- [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [Quaver/Quaver](https://github.com/Quaver/Quaver) - The ultimate community-driven, and open-source competitive rhythm game available on Steam.
 - [Blecki/dwarfcorp](https://github.com/Blecki/dwarfcorp) - An open-source 3D colony management game for PC, Mac and Linux
@@ -293,6 +302,8 @@
 
 ## C++ 
 
+- [GossiTheDog/HiveNightmare](https://github.com/GossiTheDog/HiveNightmare) - Exploit allowing you to read registry hives as non-admin on Windows 10 and 11
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
@@ -505,6 +516,10 @@
 
 ## Go 
 
+- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
+- [glitchedgitz/cook](https://github.com/glitchedgitz/cook) - A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers.
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -570,6 +585,7 @@
 
 ## HTML 
 
+- [punk-security/secret-magpie](https://github.com/punk-security/secret-magpie) - Secret Magpie - Secret Detection Tool
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [sohag1192/BDIX-IPTV](https://github.com/sohag1192/BDIX-IPTV) - IPTV M3U8 FILE, EVERY DAY UPDATES, (FREE IPTV FILE) 100% WORKING
@@ -609,6 +625,10 @@
 ## Idris 
 
 - [singnet/ai-dsl](https://github.com/singnet/ai-dsl) - Artificial Intelligence Domain Specific Language (AI-DSL) to enable autonomous interoperability between AI services.
+
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Java 
 
@@ -723,6 +743,7 @@
 
 ## Jupyter Notebook 
 
+- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
 - [allenai/OLMoE](https://github.com/allenai/OLMoE) - OLMoE: Open Mixture-of-Experts Language Models
@@ -787,12 +808,14 @@
 
 ## Kotlin 
 
+- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [Lyzev/Schizoid](https://github.com/Lyzev/Schizoid) - Elevate your Minecraft gameplay with this free and feature-rich client built with Fabric API and utilizing mixin-based injection techniques.
 - [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) - A free mixin-based injection hacked client for Minecraft using the Fabric API
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) - Android permission explorer 🧑‍✈️
 
 ## Lua 
 
+- [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
@@ -950,6 +973,11 @@
 
 ## Others 
 
+- [glitchedgitz/cook-ingredients](https://github.com/glitchedgitz/cook-ingredients) - The largest collection of wordlists in yaml for bug bounty tools
+- [The-Hacker-Recipes/The-Hacker-Recipes](https://github.com/The-Hacker-Recipes/The-Hacker-Recipes) - This project is aimed at freely providing technical guides on various hacking topics: Active Directory services, web services, servers, intelligence gathering, physical intrusion, phishing, mobile app
+- [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
+- [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
+- [NexaAI/Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) - Awesome LLMs on Device: A Comprehensive Survey
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of full time roles in SWE, Quant, and PM for new grads.
 - [red-tails/list-of-boorus](https://github.com/red-tails/list-of-boorus) - List of booru imageboards
 - [kennell/imageboards](https://github.com/kennell/imageboards) - :ramen: an overview of popular imageboard software
@@ -1041,6 +1069,8 @@
 
 ## PHP 
 
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
+- [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 - [OpenIB/OpenIB](https://github.com/OpenIB/OpenIB) - An infinity fork focused on security.
 - [ctrlcctrlv/infinity](https://github.com/ctrlcctrlv/infinity) - A vichan fork permitting users to create their own boards
 - [vichan-devel/vichan](https://github.com/vichan-devel/vichan) - Vichan is the most popular and widely used imageboard software in the world. It is a free, light-weight, fast, highly configurable and user-friendly imageboard software package.
@@ -1052,6 +1082,7 @@
 
 ## Perl 
 
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [eksopl/fuuka](https://github.com/eksopl/fuuka) - Fuuka Imageboard Archiver
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System
 
@@ -1076,6 +1107,27 @@
 
 ## Python 
 
+- [lucidrains/firefly-torch](https://github.com/lucidrains/firefly-torch) - Exploration into the Firefly algorithm in Pytorch
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [EntySec/Shreder](https://github.com/EntySec/Shreder) - Shreder is a powerful multi-threaded SSH protocol password brute-force tool.
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+- [ShawnDEvans/smbmap](https://github.com/ShawnDEvans/smbmap) - SMBMap is a handy SMB enumeration tool
+- [EntySec/RomBuster](https://github.com/EntySec/RomBuster) - RomBuster is a router exploitation tool that allows to disclosure network router admin password.
+- [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
+- [hash3liZer/WiFiBroot](https://github.com/hash3liZer/WiFiBroot) - A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures & Crack 4-way handshake and PMKID key. Also, supports a deauthentication/jammer mode for stress testing
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+- [Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
+- [wapiti-scanner/wapiti](https://github.com/wapiti-scanner/wapiti) - Web vulnerability scanner written in Python3
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
+- [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
+- [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models. It supports text generation, image generation, vision-language models (VLM), auto-speech-recognition (ASR), and text-to-speech 
+- [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
+- [thooton/muse](https://github.com/thooton/muse) - Let's create synthetic textbooks together :)
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
@@ -1478,6 +1530,9 @@
 
 ## Rust 
 
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
+- [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [Eliah-Lakhin/ad-astra](https://github.com/Eliah-Lakhin/ad-astra) - Scripting language for Rust.
 - [Eliah-Lakhin/lady-deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
@@ -1596,6 +1651,11 @@
 
 ## Shell 
 
+- [diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) - Linux enumeration tool for pentesting and CTFs with verbosity levels
+- [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy) - Automated WPA/WPA2 PSK attack tool.
+- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
+- [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
+- [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [panaceya/winbox](https://github.com/panaceya/winbox) - Snap package with winbox from MikroTik (https://mikrotik.com)
@@ -1661,6 +1721,8 @@
 
 ## TypeScript 
 
+- [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
+- [Stanko/pulsar](https://github.com/Stanko/pulsar) - Micro creative coding playground
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [PraxiveSoftware/Samurai](https://github.com/PraxiveSoftware/Samurai) - 🐉 Build firefox forks with ease. Fork of the gluon project improved for windows.
@@ -1684,7 +1746,7 @@
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [unsearchapp/unsearch](https://github.com/unsearchapp/unsearch) - Unsearch is an open-source, cross-browser manager for browsing activity.
 - [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader & spinner web components. Made with CSS, HTML and SVG. https://uiball.com/ldrs
-- [RohanVashisht1234/zigistry](https://github.com/RohanVashisht1234/zigistry) - A place where you can find all the libraries that suit your Zig lang needs.
+- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) - A place where you can find all the libraries that suit your Zig lang needs.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
 - [tympanix/Electorrent](https://github.com/tympanix/Electorrent) - A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology & Deluge
@@ -1748,6 +1810,10 @@
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+
+## V 
+
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vim Script 
 
