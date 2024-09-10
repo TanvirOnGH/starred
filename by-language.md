@@ -66,6 +66,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Solidity](#solidity)
@@ -325,7 +326,7 @@
 - [halpz/re3](https://github.com/halpz/re3) - 
 - [OpenXcom/OpenXcom](https://github.com/OpenXcom/OpenXcom) - Open-source clone of the original X-Com 👽
 - [opentomb/OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake
-- [0ad/0ad](https://github.com/0ad/0ad) - Git mirror of the 0 A.D. source code (http://trac.wildfiregames.com/browser)
+- [0ad/0ad](https://github.com/0ad/0ad) - [DEPRECATED] Git mirror of the 0 A.D. SVN source code (migrated to https://gitea.wildfiregames.com on August 20th 2024)
 - [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
 - [id-Software/DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
@@ -433,6 +434,7 @@
 
 ## CSS 
 
+- [accrazed/YoRHA-UI-BetterDiscord](https://github.com/accrazed/YoRHA-UI-BetterDiscord) - Better Discord theme based around NieR: Automata's Menu UI
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
@@ -516,6 +518,7 @@
 
 ## Go 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [glitchedgitz/cook](https://github.com/glitchedgitz/cook) - A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
@@ -585,6 +588,7 @@
 
 ## HTML 
 
+- [Aiffelowy/dotfiles](https://github.com/Aiffelowy/dotfiles) - 
 - [punk-security/secret-magpie](https://github.com/punk-security/secret-magpie) - Secret Magpie - Secret Detection Tool
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
@@ -656,6 +660,8 @@
 
 ## JavaScript 
 
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+- [lrnselfreliance/wrolpi](https://github.com/lrnselfreliance/wrolpi) - Create your own off-grid library
 - [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [lainchan/lainchan](https://github.com/lainchan/lainchan) - The version of vichan running on lainchan.org
@@ -688,7 +694,6 @@
 - [KevinParnell/OneeChan](https://github.com/KevinParnell/OneeChan) - Customizable rice and themes for 4chan X
 - [TuxedoTako/4chan-xt](https://github.com/TuxedoTako/4chan-xt) - Adds various features to anonymous imageboards.
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
@@ -973,6 +978,7 @@
 
 ## Others 
 
+- [OliveThePuffin/yorha-grub-theme](https://github.com/OliveThePuffin/yorha-grub-theme) - Nier Automata Loading screen as Boot Menu
 - [glitchedgitz/cook-ingredients](https://github.com/glitchedgitz/cook-ingredients) - The largest collection of wordlists in yaml for bug bounty tools
 - [The-Hacker-Recipes/The-Hacker-Recipes](https://github.com/The-Hacker-Recipes/The-Hacker-Recipes) - This project is aimed at freely providing technical guides on various hacking topics: Active Directory services, web services, servers, intelligence gathering, physical intrusion, phishing, mobile app
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
@@ -1107,6 +1113,8 @@
 
 ## Python 
 
+- [WoefulWolf/NieR2Blender2NieR](https://github.com/WoefulWolf/NieR2Blender2NieR) - Import/Export WMB/WTP/WTA/DAT/DTT/LAY/COL files for NieR:Automata
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [lucidrains/firefly-torch](https://github.com/lucidrains/firefly-torch) - Exploration into the Firefly algorithm in Pytorch
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [EntySec/Shreder](https://github.com/EntySec/Shreder) - Shreder is a powerful multi-threaded SSH protocol password brute-force tool.
@@ -1642,6 +1650,10 @@
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 
+## Sass 
+
+- [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
+
 ## Scala 
 
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
@@ -1651,9 +1663,11 @@
 
 ## Shell 
 
+- [starsprinter92/dotfiles-flicko-aurora-fix](https://github.com/starsprinter92/dotfiles-flicko-aurora-fix) - dotfiles go brrr
+- [anteczko/Nier-Automata-Rice](https://github.com/anteczko/Nier-Automata-Rice) - It's repository for game inspired linux customization
+- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) - Linux enumeration tool for pentesting and CTFs with verbosity levels
 - [MS-WEB-BN/h4rpy](https://github.com/MS-WEB-BN/h4rpy) - Automated WPA/WPA2 PSK attack tool.
-- [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot) - An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
@@ -1697,6 +1711,7 @@
 ## Svelte 
 
 - [Vaisakhkm2625/plymouth-themes-galary](https://github.com/Vaisakhkm2625/plymouth-themes-galary) - simple preview of adi1090x/plymouth-themes
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -1721,6 +1736,9 @@
 
 ## TypeScript 
 
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
+- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
 - [Stanko/pulsar](https://github.com/Stanko/pulsar) - Micro creative coding playground
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
