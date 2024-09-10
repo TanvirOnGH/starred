@@ -939,6 +939,8 @@
 
 ## dotfiles 
 
+- [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
@@ -1348,6 +1350,7 @@
 
 ## hacktoberfest 
 
+- [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
@@ -1506,7 +1509,7 @@
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## ios 
 
@@ -1638,6 +1641,8 @@
 
 ## linux 
 
+- [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -2021,7 +2026,7 @@
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
 - [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 80+ CLI tools to build, browse, and blend your media library: an index for your archive.
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
@@ -2209,6 +2214,13 @@
 
 ## others 
 
+- [accrazed/YoRHA-UI-BetterDiscord](https://github.com/accrazed/YoRHA-UI-BetterDiscord) - Better Discord theme based around NieR: Automata's Menu UI
+- [WoefulWolf/NieR2Blender2NieR](https://github.com/WoefulWolf/NieR2Blender2NieR) - Import/Export WMB/WTP/WTA/DAT/DTT/LAY/COL files for NieR:Automata
+- [OliveThePuffin/yorha-grub-theme](https://github.com/OliveThePuffin/yorha-grub-theme) - Nier Automata Loading screen as Boot Menu
+- [starsprinter92/dotfiles-flicko-aurora-fix](https://github.com/starsprinter92/dotfiles-flicko-aurora-fix) - dotfiles go brrr
+- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+- [Aiffelowy/dotfiles](https://github.com/Aiffelowy/dotfiles) - 
+- [anteczko/Nier-Automata-Rice](https://github.com/anteczko/Nier-Automata-Rice) - It's repository for game inspired linux customization
 - [lucidrains/firefly-torch](https://github.com/lucidrains/firefly-torch) - Exploration into the Firefly algorithm in Pytorch
 - [jsuarezruiz/maui-linux](https://github.com/jsuarezruiz/maui-linux) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -2300,7 +2312,7 @@
 - [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit 
 - [halpz/re3](https://github.com/halpz/re3) - 
 - [XProger/OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
-- [0ad/0ad](https://github.com/0ad/0ad) - Git mirror of the 0 A.D. source code (http://trac.wildfiregames.com/browser)
+- [0ad/0ad](https://github.com/0ad/0ad) - [DEPRECATED] Git mirror of the 0 A.D. SVN source code (migrated to https://gitea.wildfiregames.com on August 20th 2024)
 - [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 - [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
 - [id-Software/Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
@@ -3562,7 +3574,7 @@
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 
 ## typescript 
@@ -3671,7 +3683,7 @@
 ## webapp 
 
 - [funmaker/Hybooru](https://github.com/funmaker/Hybooru) - Hydrus-based booru-styled imageboard in React
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 
 ## website 
