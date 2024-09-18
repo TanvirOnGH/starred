@@ -108,6 +108,7 @@
 
 ## C 
 
+- [marella/ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -288,6 +289,7 @@
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [simeononsecurity/Windows-Optimize-Harden-Debloat-GUI](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat-GUI) - C# Based GUI for Windows-Optimize-Harden-Debloat
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
@@ -313,6 +315,7 @@
 
 ## C++ 
 
+- [InWILL/Locale_Remulator](https://github.com/InWILL/Locale_Remulator) - System Region and Language Simulator.
 - [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen) - Principle of WinRAR key generation.
 - [GossiTheDog/HiveNightmare](https://github.com/GossiTheDog/HiveNightmare) - Exploit allowing you to read registry hives as non-admin on Windows 10 and 11
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -682,6 +685,7 @@
 
 ## JavaScript 
 
+- [TheFutureGadgetsLab/WaifuXL](https://github.com/TheFutureGadgetsLab/WaifuXL) - State of the art image upscaling, directly in your browser.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -750,7 +754,7 @@
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
 - [squaredtechnologies/vizly-notebook](https://github.com/squaredtechnologies/vizly-notebook) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
-- [philfung/perplexed](https://github.com/philfung/perplexed) - Open-source RAG application inspired by Perplexity.
+- [philfung/perplexed](https://github.com/philfung/perplexed) - Open-source RAG inspired by Perplexity.
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [aseichter2007/ClipboardConqueror](https://github.com/aseichter2007/ClipboardConqueror) - Clipboard Conqueror is a novel copy and paste copilot alternative designed to bring your very own LLM AI assistant to any text field.
@@ -1153,7 +1157,6 @@
 - [HotCakeX/MicrosoftDomains](https://github.com/HotCakeX/MicrosoftDomains) - This repository lists all active Microsoft domains | no URLs and no sub-domains | for the purpose of Whitelisting in various systems and apps | This is for my personal use but then decided to publish 
 - [HotCakeX/Official-IANA-IP-blocks](https://github.com/HotCakeX/Official-IANA-IP-blocks) - Official-IANA-IP-blocks for each country | IPV4 and IPV6 | TEXT | CSV | JSON
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
-- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ## Processing 
@@ -1216,7 +1219,6 @@
 - [deepghs/cyberharem](https://github.com/deepghs/cyberharem) - Cyber Harem of All the Waifus in Games, Mua~
 - [gpt-omni/mini-omni](https://github.com/gpt-omni/mini-omni) - open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [intel/AI-Playground](https://github.com/intel/AI-Playground) - AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
 - [lucidrains/transfusion-pytorch](https://github.com/lucidrains/transfusion-pytorch) - Pytorch implementation of Transfusion, "Predict the Next Token and Diffuse Images with One Multi-Modal Model", from MetaAI
 - [KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.
 - [rupeshs/fastsdcpu](https://github.com/rupeshs/fastsdcpu) - Fast stable diffusion on CPU
@@ -1652,7 +1654,7 @@
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [juspay/omnix](https://github.com/juspay/omnix) - 🚧 A Nix wrapper to improve developer experience
+- [juspay/omnix](https://github.com/juspay/omnix) - 🚧 A Nix companion to improve developer experience
 - [reasv/mitsuba](https://github.com/reasv/mitsuba) - Lightweight 4chan board archive software (like Foolfuuka) written in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
@@ -1804,6 +1806,7 @@
 
 ## TypeScript 
 
+- [voideditor/void](https://github.com/voideditor/void) - 
 - [manga-download/haruneko](https://github.com/manga-download/haruneko) - Prototype of HakuNeko based on NW.js + TypeScript
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything!
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
@@ -1929,6 +1932,7 @@
 
 ## Vue 
 
+- [intel/AI-Playground](https://github.com/intel/AI-Playground) - AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
 - [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - Generative Art Marketplace
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
