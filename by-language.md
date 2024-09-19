@@ -448,6 +448,7 @@
 
 ## CSS 
 
+- [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
 - [accrazed/YoRHA-UI-BetterDiscord](https://github.com/accrazed/YoRHA-UI-BetterDiscord) - Better Discord theme based around NieR: Automata's Menu UI
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
@@ -535,6 +536,8 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
@@ -611,6 +614,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [hackclub/RAM-a-thon](https://github.com/hackclub/RAM-a-thon) - Just a detailed in-depth, and comprehensive explanation of how computers operate internally, focusing on RAM and CPU aspects, respectively. By @ILyesMk2
 - [Aiffelowy/dotfiles](https://github.com/Aiffelowy/dotfiles) - 
 - [punk-security/secret-magpie](https://github.com/punk-security/secret-magpie) - Secret Magpie - Secret Detection Tool
@@ -776,6 +780,7 @@
 
 ## Jupyter Notebook 
 
+- [ionworks/how-to-debug-your-battery](https://github.com/ionworks/how-to-debug-your-battery) - A guide on how to understand the performance of your battery with modelling and improve it
 - [alexandrasouly/strongreject](https://github.com/alexandrasouly/strongreject) - Repository for "StrongREJECT for Empty Jailbreaks" paper
 - [idavidrein/gpqa](https://github.com/idavidrein/gpqa) - GPQA: A Graduate-Level Google-Proof Q&A Benchmark
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -1022,6 +1027,10 @@
 
 ## Others 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
+- [GNU-Linux-libre/Awesome-Session-Group-List](https://github.com/GNU-Linux-libre/Awesome-Session-Group-List) - awesome session group list
+- [GNU-Linux-libre/Awesome-VPN-Network](https://github.com/GNU-Linux-libre/Awesome-VPN-Network) - The best vpn service 2022 Lifetime free anonymous Awesome dVPN foss Network decentralized Ethereum Blockchain DHT-VPN Peer-to-peer open-source
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [Alexander-T-Moss/Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero) - Re-design of Tri-Zero, with a revised Pandora Gantry plus plenty of hexagons!
@@ -1165,6 +1174,7 @@
 
 ## Python 
 
+- [Dicklesworthstone/visual_astar_python](https://github.com/Dicklesworthstone/visual_astar_python) - Generate Cool-Looking Mazes and Animations Illustrating the A* Pathfinding Algorithm
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
@@ -1603,6 +1613,9 @@
 
 ## Rust 
 
+- [radicle-dev/radicle-git](https://github.com/radicle-dev/radicle-git) - Everything Radicle growing around Git
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 - [evilsocket/legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
@@ -1778,6 +1791,7 @@
 
 ## Svelte 
 
+- [radicle-dev/radicle-interface](https://github.com/radicle-dev/radicle-interface) - Radicle web interface
 - [NoCrypt/migu](https://github.com/NoCrypt/migu) - Stream anime torrents, real-time with no waiting for downloads
 - [Vaisakhkm2625/plymouth-themes-galary](https://github.com/Vaisakhkm2625/plymouth-themes-galary) - simple preview of adi1090x/plymouth-themes
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -1806,6 +1820,7 @@
 
 ## TypeScript 
 
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [manga-download/haruneko](https://github.com/manga-download/haruneko) - Prototype of HakuNeko based on NW.js + TypeScript
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything!
