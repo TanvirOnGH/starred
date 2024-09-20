@@ -371,7 +371,6 @@
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL. Free for non-commercial use.
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [fn2006/PollyMC](https://github.com/fn2006/PollyMC) - DRM-free Prism Launcher fork with support for custom auth servers.
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -488,7 +487,7 @@
 
 ## Cuda 
 
-- [mobiusml/gemlite](https://github.com/mobiusml/gemlite) - Simple and fast low-bit matmul kernels in CUDA
+- [mobiusml/gemlite](https://github.com/mobiusml/gemlite) - Simple and fast low-bit matmul kernels in CUDA / Triton
 - [HanGuo97/flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 - [likejazz/llama3.cuda](https://github.com/likejazz/llama3.cuda) - llama3.cuda is a pure C/CUDA implementation for Llama 3 model.
@@ -614,6 +613,7 @@
 
 ## HTML 
 
+- [cooervo/Algorithms-DataStructures-BigONotation](https://github.com/cooervo/Algorithms-DataStructures-BigONotation) - Big O notation cheatsheets. algorithms and data structures explanations and implementations
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [hackclub/RAM-a-thon](https://github.com/hackclub/RAM-a-thon) - Just a detailed in-depth, and comprehensive explanation of how computers operate internally, focusing on RAM and CPU aspects, respectively. By @ILyesMk2
 - [Aiffelowy/dotfiles](https://github.com/Aiffelowy/dotfiles) - 
@@ -664,6 +664,7 @@
 
 ## Java 
 
+- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
 - [dougdonohoe/ddpoker](https://github.com/dougdonohoe/ddpoker) - DD Poker Source Code
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [eksopl/asagi](https://github.com/eksopl/asagi) - Asagi imageboard dumper
@@ -758,7 +759,7 @@
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
 - [squaredtechnologies/vizly-notebook](https://github.com/squaredtechnologies/vizly-notebook) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
-- [philfung/perplexed](https://github.com/philfung/perplexed) - Open-source RAG inspired by Perplexity.
+- [philfung/perplexed](https://github.com/philfung/perplexed) - Perplexity-inspired open-source RAG application.
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [aseichter2007/ClipboardConqueror](https://github.com/aseichter2007/ClipboardConqueror) - Clipboard Conqueror is a novel copy and paste copilot alternative designed to bring your very own LLM AI assistant to any text field.
@@ -780,6 +781,7 @@
 
 ## Jupyter Notebook 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [ionworks/how-to-debug-your-battery](https://github.com/ionworks/how-to-debug-your-battery) - A guide on how to understand the performance of your battery with modelling and improve it
 - [alexandrasouly/strongreject](https://github.com/alexandrasouly/strongreject) - Repository for "StrongREJECT for Empty Jailbreaks" paper
 - [idavidrein/gpqa](https://github.com/idavidrein/gpqa) - GPQA: A Graduate-Level Google-Proof Q&A Benchmark
@@ -1027,6 +1029,7 @@
 
 ## Others 
 
+- [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - Hand-curated list of awesome and useful websites
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
 - [GNU-Linux-libre/Awesome-Session-Group-List](https://github.com/GNU-Linux-libre/Awesome-Session-Group-List) - awesome session group list
@@ -1358,6 +1361,7 @@
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [deepdrive/deepdrive](https://github.com/deepdrive/deepdrive) - Deepdrive is a simulator that allows anyone with a PC to push the state-of-the-art in self-driving
 - [openworm/OpenWorm](https://github.com/openworm/OpenWorm) - Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues
+- [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [statchamber/ebook-to-chatml-conversion](https://github.com/statchamber/ebook-to-chatml-conversion) - idea: https://github.com/nyxkrage/ebook-groupchat/
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
@@ -1465,7 +1469,6 @@
 - [MikeMeliz/TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [Sebby37/Dead-Internet](https://github.com/Sebby37/Dead-Internet) - Y'all thought the dead internet theory wasn't real, but HERE IT IS
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -1613,6 +1616,7 @@
 
 ## Rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [radicle-dev/radicle-git](https://github.com/radicle-dev/radicle-git) - Everything Radicle growing around Git
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
@@ -1820,6 +1824,8 @@
 
 ## TypeScript 
 
+- [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
+- [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [manga-download/haruneko](https://github.com/manga-download/haruneko) - Prototype of HakuNeko based on NW.js + TypeScript
@@ -1907,6 +1913,7 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [6174/comflowyspace](https://github.com/6174/comflowyspace) - Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
