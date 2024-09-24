@@ -480,6 +480,7 @@
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [HDVinnie/Private-Trackers-Spreadsheet](https://github.com/HDVinnie/Private-Trackers-Spreadsheet) - A spreadsheet providing detailed information about private trackers
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
+- [agiresearch/AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
 
 ## Clojure 
 
@@ -582,7 +583,6 @@
 - [pojntfx/multiplex](https://github.com/pojntfx/multiplex) - Watch torrents with your friends.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [symflower/eval-dev-quality](https://github.com/symflower/eval-dev-quality) - DevQualityEval: An evaluation benchmark 📈 and framework to compare and evolve the quality of code generation of LLMs.
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -633,6 +633,7 @@
 - [sohag1192/BDIX-IPTV](https://github.com/sohag1192/BDIX-IPTV) - IPTV M3U8 FILE, EVERY DAY UPDATES, (FREE IPTV FILE) 100% WORKING
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
+- [yuchenlin/ZeroEval](https://github.com/yuchenlin/ZeroEval) - A simple unified framework for evaluating LLMs
 - [VoronDesign/Voron-Hardware](https://github.com/VoronDesign/Voron-Hardware) - Cool Hardware designed by the Voron Design group
 - [starsnatched/neurasim](https://github.com/starsnatched/neurasim) - Pretty accurate simulation of neurons.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -908,7 +909,7 @@
 - [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv
 - [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .h)
 - [worron/awesome-config](https://github.com/worron/awesome-config) - Awesome WM config
-- [Stardust-kyun/dotfiles](https://github.com/Stardust-kyun/dotfiles) - Calla Desktop Environment
+- [Stardust-kyun/calla](https://github.com/Stardust-kyun/calla) - Calla Desktop Environment
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [andOrlando/rubato](https://github.com/andOrlando/rubato) - Create smooth animations with a slope curve for awesomeWM
@@ -1044,6 +1045,8 @@
 
 ## Others 
 
+- [speedyapply/2025-AI-College-Jobs](https://github.com/speedyapply/2025-AI-College-Jobs) - 2025 AI/ML internship & new graduate job list updated daily
+- [speedyapply/2025-SWE-College-Jobs](https://github.com/speedyapply/2025-SWE-College-Jobs) - 2025 SWE internship & new graduate job list updated daily
 - [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - Hand-curated list of awesome and useful websites
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
@@ -1336,7 +1339,6 @@
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 - [philz1337x/clarity-lowres-upscaler](https://github.com/philz1337x/clarity-lowres-upscaler) - Low resolution upscaling fix for Clarity AI - Upscale and enhance your images with AI
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
-- [yuchenlin/ZeroEval](https://github.com/yuchenlin/ZeroEval) - A simple unified framework for evaluating LLMs
 - [SanForgeStudio/LuaNodeEditor](https://github.com/SanForgeStudio/LuaNodeEditor) - A powerful and simple visual flow-node IDE for game engines, mods and software.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [kzrtn/unnamed-3k-v2](https://github.com/kzrtn/unnamed-3k-v2) - A simple 3 key QMK hotswap keypad for osu!
@@ -1472,7 +1474,6 @@
 - [lks-ai/anynode](https://github.com/lks-ai/anynode) - A Node for ComfyUI that does what you ask it to do
 - [notAI-tech/NudeNet](https://github.com/notAI-tech/NudeNet) - Lightweight nudity detection
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
-- [agiresearch/AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
 - [the-crypt-keeper/LLooM](https://github.com/the-crypt-keeper/LLooM) - Experimental LLM Inference UX to aid in creative writing
 - [vladmandic/automatic](https://github.com/vladmandic/automatic) - SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models
 - [bilibili/ailab](https://github.com/bilibili/ailab) - 
@@ -1589,7 +1590,7 @@
 - [hustvl/GaussianDreamer](https://github.com/hustvl/GaussianDreamer) - GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models (CVPR 2024)
 - [gsgen3d/gsgen](https://github.com/gsgen3d/gsgen) - [CVPR 2024] Text-to-3D using Gaussian Splatting
 - [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
-- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Letta (fka MemGPT) is a framework for creating stateful LLM services.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [SortAnon/hifi-gan](https://github.com/SortAnon/hifi-gan) - HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis
@@ -1903,6 +1904,7 @@
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [WofWca/jumpcutter](https://github.com/WofWca/jumpcutter) - ⏩ Fast-forwards long pauses between sentences — watch lectures ~1.5x faster (browser extension)
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
