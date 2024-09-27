@@ -33,7 +33,6 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
-- [clojure](#clojure)
 - [code](#code)
 - [code-review](#code-review)
 - [compiler](#compiler)
@@ -70,6 +69,7 @@
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [ethereum](#ethereum)
+- [express](#express)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -234,6 +234,7 @@
 
 ## ai 
 
+- [ImDarkTom/ComfyUIMini](https://github.com/ImDarkTom/ComfyUIMini) - A web app made to let mobile users run ComfyUI workflows.
 - [speedyapply/2025-AI-College-Jobs](https://github.com/speedyapply/2025-AI-College-Jobs) - 2025 AI/ML internship & new graduate job list updated daily
 - [tcsenpai/multi1](https://github.com/tcsenpai/multi1) - multi1: create o1-like reasoning chains with multiple AI providers (and locally). Supports LiteLLM as backend too for 100+ providers at once.
 - [marella/ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
@@ -255,7 +256,7 @@
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -321,6 +322,7 @@
 
 ## android 
 
+- [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
@@ -697,10 +699,6 @@
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 
-## clojure 
-
-- [damn/clojure.world](https://github.com/damn/clojure.world) - 🌎 Crafting 🧙 worlds with alien 🛸 technology 👽
-
 ## code 
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -734,7 +732,7 @@
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like
 - [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 - [VedankPurohit/LiveRecall](https://github.com/VedankPurohit/LiveRecall) - Welcome to **LiveRecall**, the open-source alternative to Microsoft's Recall. LiveRecall captures snapshots of your screen and allows you to recall them using natural language queries, leveraging sema
 - [idealo/image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
@@ -757,6 +755,7 @@
 
 ## cpp 
 
+- [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
@@ -898,6 +897,7 @@
 
 ## deep-learning 
 
+- [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
@@ -959,6 +959,7 @@
 
 ## deno 
 
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## deployment 
@@ -1127,6 +1128,10 @@
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [Unirep/Unirep](https://github.com/Unirep/Unirep) - A Zero-Knowledge Protocol for Provable User Data Management
 
+## express 
+
+- [ImDarkTom/ComfyUIMini](https://github.com/ImDarkTom/ComfyUIMini) - A web app made to let mobile users run ComfyUI workflows.
+
 ## firefox 
 
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
@@ -1269,7 +1274,6 @@
 
 ## game-engine 
 
-- [damn/clojure.world](https://github.com/damn/clojure.world) - 🌎 Crafting 🧙 worlds with alien 🛸 technology 👽
 - [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [Blecki/dwarfcorp](https://github.com/Blecki/dwarfcorp) - An open-source 3D colony management game for PC, Mac and Linux
@@ -1287,7 +1291,6 @@
 ## gamedev 
 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-- [damn/clojure.world](https://github.com/damn/clojure.world) - 🌎 Crafting 🧙 worlds with alien 🛸 technology 👽
 - [bjornbytes/lovr](https://github.com/bjornbytes/lovr) - Lua Virtual Reality Framework
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [foxnne/pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
@@ -1655,6 +1658,7 @@
 
 ## ios 
 
+- [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
@@ -1695,6 +1699,9 @@
 
 ## javascript 
 
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+- [ImDarkTom/ComfyUIMini](https://github.com/ImDarkTom/ComfyUIMini) - A web app made to let mobile users run ComfyUI workflows.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -1729,6 +1736,8 @@
 
 ## js 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+- [ImDarkTom/ComfyUIMini](https://github.com/ImDarkTom/ComfyUIMini) - A web app made to let mobile users run ComfyUI workflows.
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 
 ## json 
@@ -1795,6 +1804,8 @@
 
 ## linux 
 
+- [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
@@ -1929,7 +1940,7 @@
 - [hkproj/mistral-src-commented](https://github.com/hkproj/mistral-src-commented) - Reference implementation of Mistral AI 7B v0.1 model.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ Speak with AI - Run locally using ollama or OpenAI - XTTS or OpenAI Speech or ElevenLabs
 - [AviSoori1x/seemore](https://github.com/AviSoori1x/seemore) - From scratch implementation of a vision language model in pure PyTorch
 - [EricLBuehler/xlora](https://github.com/EricLBuehler/xlora) - X-LoRA: Mixture of LoRA Experts
@@ -2041,6 +2052,7 @@
 
 ## machine-learning 
 
+- [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [speedyapply/2025-AI-College-Jobs](https://github.com/speedyapply/2025-AI-College-Jobs) - 2025 AI/ML internship & new graduate job list updated daily
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
@@ -2066,7 +2078,7 @@
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [the-database/traiNNer-redux](https://github.com/the-database/traiNNer-redux) - Deep learning training framework for image super resolution and restoration.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward diffusion models.
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
@@ -2092,6 +2104,8 @@
 
 ## macos 
 
+- [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
@@ -2315,11 +2329,14 @@
 
 ## node 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [flotos/Game-Shaper-AI](https://github.com/flotos/Game-Shaper-AI) - Interact with a AI Game-engine that keep building its rules and world as you play, adapted to your gameplay.
 
 ## nodejs 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+- [ImDarkTom/ComfyUIMini](https://github.com/ImDarkTom/ComfyUIMini) - A web app made to let mobile users run ComfyUI workflows.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -2435,6 +2452,11 @@
 
 ## others 
 
+- [ProtonDriveApps/android-drive](https://github.com/ProtonDriveApps/android-drive) - 
+- [PrimeIntellect-ai/OpenDiloco](https://github.com/PrimeIntellect-ai/OpenDiloco) - OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training
+- [libp2p/libp2p](https://github.com/libp2p/libp2p) - A modular and extensible networking stack which solves many challenges of peer-to-peer applications.
+- [sushilmagare10/github-profile-genarator](https://github.com/sushilmagare10/github-profile-genarator) - Create stunning GitHub profiles in seconds with ease. 🚀
+- [google-research/circuit_training](https://github.com/google-research/circuit_training) - 
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
@@ -2477,6 +2499,7 @@
 - [Alexander-T-Moss/Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero) - Re-design of Tri-Zero, with a revised Pandora Gantry plus plenty of hexagons!
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [OutofAi/OutofFocus](https://github.com/OutofAi/OutofFocus) - An AI focused photo manipulation tool based on Gradio
+- [damn/clojure.ctx](https://github.com/damn/clojure.ctx) - A programming language for game development
 - [monofuel/hippo](https://github.com/monofuel/hippo) - HIP / CUDA library for Nim
 - [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [dsbowen/strong_reject](https://github.com/dsbowen/strong_reject) - 
@@ -3342,6 +3365,7 @@
 
 ## python 
 
+- [weaviate/recipes](https://github.com/weaviate/recipes) - This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!
 - [hyprland-community/pyprland](https://github.com/hyprland-community/pyprland) - Scratchpads & many goodies for Hyprland [maintainer=@fdev31]
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
@@ -3449,6 +3473,7 @@
 
 ## pytorch 
 
+- [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -3805,6 +3830,7 @@
 
 ## stable-diffusion 
 
+- [ImDarkTom/ComfyUIMini](https://github.com/ImDarkTom/ComfyUIMini) - A web app made to let mobile users run ComfyUI workflows.
 - [light-and-ray/sd-webui-replacer](https://github.com/light-and-ray/sd-webui-replacer) - A tab for sd-webui for replacing objects in pictures or videos using detection prompt
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models. It supports text generation, image generation, vision-language models (VLM), auto-speech-recognition (ASR), and text-to-speech 
 - [KohakuBlueleaf/LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.
@@ -3929,6 +3955,7 @@
 
 ## typescript 
 
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
 - [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 - [PraxiveSoftware/Samurai](https://github.com/PraxiveSoftware/Samurai) - 🐉 Build firefox forks with ease. Fork of the gluon project improved for windows.
@@ -4059,6 +4086,8 @@
 
 ## windows 
 
+- [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen) - Principle of WinRAR key generation.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
