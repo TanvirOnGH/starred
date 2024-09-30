@@ -109,6 +109,7 @@
 
 ## C 
 
+- [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
 - [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - 🐱 Anything that can be written in Snowball, will eventually be written in Snowball
 - [rui314/9cc](https://github.com/rui314/9cc) - A Small C Compiler
 - [rui314/minilisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C
@@ -791,6 +792,7 @@
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
+- [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
@@ -852,7 +854,7 @@
 - [severian42/Vodalus-Expert-LLM-Forge](https://github.com/severian42/Vodalus-Expert-LLM-Forge) - Dataset Crafting w/ RAG/Wikipedia ground truth and Efficient Fine-Tuning Using MLX and Unsloth. Includes configurable dataset annotation editor Gradio UI.
 - [Tribler/De-DSI](https://github.com/Tribler/De-DSI) - 
 - [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) - An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.
-- [lm-sys/arena-hard-auto](https://github.com/lm-sys/arena-hard-auto) - Arena-Hard-Auto: An automatic LLM benchmark.
+- [lmarena/arena-hard-auto](https://github.com/lmarena/arena-hard-auto) - Arena-Hard-Auto: An automatic LLM benchmark.
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [MedARC-AI/fMRI-reconstruction-NSD](https://github.com/MedARC-AI/fMRI-reconstruction-NSD) - fMRI-to-image reconstruction on the NSD dataset.
@@ -904,6 +906,7 @@
 
 ## Lua 
 
+- [raiguard/Krastorio2](https://github.com/raiguard/Krastorio2) - An overhaul mod for Factorio focusing on end-game technologies and moderately increased complexity.
 - [karpathy/char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
@@ -1082,6 +1085,7 @@
 
 ## Others 
 
+- [KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained) - This is a repository that aims to concisely explain the issues in Nix community
 - [princeton-computational-imaging/NeuLS](https://github.com/princeton-computational-imaging/NeuLS) - Official code repository for the paper "Neural Light Spheres for Implicit Image Stitching and View Synthesis"
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
@@ -1242,6 +1246,7 @@
 
 ## Python 
 
+- [Fingel/cosmic-themes-org-py](https://github.com/Fingel/cosmic-themes-org-py) - Website for https://cosmic-themes.org
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [aitjcize/cppman](https://github.com/aitjcize/cppman) - C++ 98/11/14 manual pages for Linux/MacOS
 - [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
@@ -1395,7 +1400,7 @@
 - [TorBox-App/torbox-tinfoil-server](https://github.com/TorBox-App/torbox-tinfoil-server) - The TorBox Tinfoil Server allows you to download torrents directly through Tinfoil using TorBox.
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints) - ☕ BeatPrints, a tool that generates eye-catching pinterest-style music posters in python
 - [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
@@ -1837,6 +1842,7 @@
 
 ## SCSS 
 
+- [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
 - [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
@@ -1935,6 +1941,7 @@
 
 ## TypeScript 
 
+- [daeuniverse/daed](https://github.com/daeuniverse/daed) - daed, a modern dashboard with dae.
 - [romansky/copa](https://github.com/romansky/copa) - CoPa: Copy File Sources For Easy Prompting
 - [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser!
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
@@ -2012,7 +2019,6 @@
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX.   Provide a Disk Efficient way to manage all your Mods!
-- [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
