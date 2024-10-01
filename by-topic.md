@@ -293,7 +293,7 @@
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
 - [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI) - The open source platform for AI-native application development.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [AI-Commandos/LLaMa2lang](https://github.com/AI-Commandos/LLaMa2lang) - Convenience scripts to finetune (chat-)LLaMa3 and other models for any language
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
@@ -338,6 +338,7 @@
 - [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.6 / Gravity Bending Puzzle Platformer Game
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
@@ -837,13 +838,14 @@
 
 ## css 
 
+- [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [stashapp/CommunityScripts](https://github.com/stashapp/CommunityScripts) - This is a public repository containing plugin and utility scripts created by the Stash Community.
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [Redundakitties/colorful-minimalist](https://github.com/Redundakitties/colorful-minimalist) - collection of sidebery tweaks feat. autohiding & colored tabs
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
-- [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
+- [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
@@ -1160,6 +1162,7 @@
 
 ## firefox 
 
+- [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -1180,7 +1183,7 @@
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
-- [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets,
+- [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
@@ -1562,6 +1565,7 @@
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - ⏣ React for Circuits
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
+- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
@@ -1621,6 +1625,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) - 
@@ -2512,6 +2517,7 @@
 
 ## others 
 
+- [Annex-Engineering/Annex-Engineering_User_Mods](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods) - mods created by users of ANNEX Engineering printers
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need
 - [Aksheet10/Cyber-Security-Resources](https://github.com/Aksheet10/Cyber-Security-Resources) - I have collected many Free Resources. Feel free share more resources
 - [gracenolan/Notes](https://github.com/gracenolan/Notes) - 
@@ -2889,7 +2895,7 @@
 - [kagisearch/pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, Google, Groq, Reka, Together, AI21, Cohere, Aleph Alpha, HuggingfaceHub), with a built-in model performance benchmark.
 - [HanGuo97/flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
 - [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110). This framework is also used to evaluate text-to-image mod
-- [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
+- [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [tjunlp-lab/Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
@@ -3064,7 +3070,7 @@
 - [20c/vaping](https://github.com/20c/vaping) - vaping is a healthy alternative to SmokePing!
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
-- [JieyuZ2/TaskMeAnything](https://github.com/JieyuZ2/TaskMeAnything) - A task generation and model evaluation system.
+- [JieyuZ2/TaskMeAnything](https://github.com/JieyuZ2/TaskMeAnything) - [NeurIPS 2024]  A task generation and model evaluation system for multimodal language models.
 - [Psycoy/MixEval](https://github.com/Psycoy/MixEval) - The official evaluation suite and dynamic data release for MixEval.
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
@@ -3286,7 +3292,7 @@
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
-- [KrabCode/LazyGui](https://github.com/KrabCode/LazyGui) - Feature rich, visually minimalist GUI library for a smooth tinkering experience in Processing 3 or 4.
+- [KrabCode/LazyGui](https://github.com/KrabCode/LazyGui) - GUI library for Processing
 - [wadetb/eliza](https://github.com/wadetb/eliza) - Python implementation of the Eliza chatbot
 - [YellowRoseCx/koboldcpp-rocm](https://github.com/YellowRoseCx/koboldcpp-rocm) - AI Inferencing at the Edge. A simple one-file way to run various GGML models with KoboldAI's UI with AMD ROCm offloading
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
