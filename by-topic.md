@@ -21,6 +21,7 @@
 - [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
+- [bioinformatics](#bioinformatics)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
@@ -239,6 +240,8 @@
 
 ## ai 
 
+- [ShelbyJenkins/llm_client](https://github.com/ShelbyJenkins/llm_client) - The Easiest Rust Interface for Local LLMs and an Interface for Deterministic Signals from Probabilistic LLM Vibes
+- [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
 - [ImDarkTom/ComfyUIMini](https://github.com/ImDarkTom/ComfyUIMini) - A web app made to let mobile users run ComfyUI workflows.
 - [speedyapply/2025-AI-College-Jobs](https://github.com/speedyapply/2025-AI-College-Jobs) - 2025 AI/ML internship & new graduate job list updated daily
@@ -391,6 +394,7 @@
 
 ## artificial-intelligence 
 
+- [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [speedyapply/2025-AI-College-Jobs](https://github.com/speedyapply/2025-AI-College-Jobs) - 2025 AI/ML internship & new graduate job list updated daily
 - [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
@@ -536,6 +540,10 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
+## bioinformatics 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
 ## bitcoin 
 
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
@@ -618,6 +626,7 @@
 
 ## chatbot 
 
+- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2.5 base and chat models. 1M context support
@@ -631,6 +640,7 @@
 
 ## chatgpt 
 
+- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -668,6 +678,7 @@
 
 ## chrome-extension 
 
+- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the latest developer news and tools in one tab!
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -687,6 +698,7 @@
 
 ## cli 
 
+- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
@@ -739,6 +751,7 @@
 
 ## computer-science 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -746,6 +759,7 @@
 
 ## computer-vision 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [Pbatch/ClashRoyaleBuildABot](https://github.com/Pbatch/ClashRoyaleBuildABot) - A platform for creating bots to play Clash Royale
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
 - [AkshitIreddy/Interactive-LLM-Powered-NPCs](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) - Interactive LLM Powered NPCs, is an open-source project that completely transforms your interaction with non-player characters (NPCs) in any game! 🎮🤖🚀
@@ -775,6 +789,7 @@
 
 ## cpp 
 
+- [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -890,6 +905,7 @@
 
 ## data-science 
 
+- [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [speedyapply/2025-AI-College-Jobs](https://github.com/speedyapply/2025-AI-College-Jobs) - 2025 AI/ML internship & new graduate job list updated daily
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
@@ -901,6 +917,7 @@
 
 ## data-structures 
 
+- [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## data-visualization 
@@ -919,6 +936,8 @@
 
 ## deep-learning 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -1246,6 +1265,7 @@
 
 ## frontend 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [bookracy/frontend](https://github.com/bookracy/frontend) - Frontend for Bookracy
@@ -1348,6 +1368,7 @@
 
 ## games 
 
+- [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
 - [Y0URD34TH/Project-GLD](https://github.com/Y0URD34TH/Project-GLD) - Project GLD is a game library and download manager, which supports community made Lua scripts for downloading and searching games.
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [Poussinou/FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) - A list of FLOSS games available on Steam (75 so far)
@@ -1371,6 +1392,7 @@
 
 ## github 
 
+- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the latest developer news and tools in one tab!
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
@@ -1527,6 +1549,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
@@ -1726,6 +1749,7 @@
 
 ## iot 
 
+- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics applicat
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [EntySec/RomBuster](https://github.com/EntySec/RomBuster) - RomBuster is a router exploitation tool that allows to disclosure network router admin password.
 
@@ -1735,6 +1759,7 @@
 
 ## java 
 
+- [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -1973,6 +1998,9 @@
 
 ## llm 
 
+- [ShelbyJenkins/llm_client](https://github.com/ShelbyJenkins/llm_client) - The Easiest Rust Interface for Local LLMs and an Interface for Deterministic Signals from Probabilistic LLM Vibes
+- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics applicat
+- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
@@ -2118,6 +2146,8 @@
 
 ## machine-learning 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -2165,7 +2195,7 @@
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [idealo/image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video upscaling program and library. Est. Hack the Valley II, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video upscaling framework. Est. Hack the Valley II, 2018.
 - [TianZerL/Anime4KCPP](https://github.com/TianZerL/Anime4KCPP) - A high performance anime upscaler
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -2356,6 +2386,7 @@
 
 ## neural-network 
 
+- [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [revdotcom/reverb](https://github.com/revdotcom/reverb) - Open source inference code for Rev's model
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -2485,6 +2516,7 @@
 
 ## openai 
 
+- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [tcsenpai/multi1](https://github.com/tcsenpai/multi1) - multi1: create o1-like reasoning chains with multiple AI providers (and locally). Supports LiteLLM as backend too for 100+ providers at once.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
@@ -2540,6 +2572,13 @@
 
 ## others 
 
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
+- [NVIDIA/NeMo-Aligner](https://github.com/NVIDIA/NeMo-Aligner) - Scalable toolkit for efficient model alignment
+- [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) - Run LLMs in the Browser with MLC / WebLLM ✨
+- [vxnuaj/Learning-Arc](https://github.com/vxnuaj/Learning-Arc) - Convoluting η-dimensional tensors over abstract manifolds.
+- [IsaacRe/vllm-kvcompress](https://github.com/IsaacRe/vllm-kvcompress) - KV cache compression for high-throughput LLM inference
+- [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
+- [SerChirag/rs-imle](https://github.com/SerChirag/rs-imle) - RS-IMLE
 - [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) - 
 - [cyan2k/llama.cpp](https://github.com/cyan2k/llama.cpp) - LLM inference in C/C++
 - [revdotcom/reverb-self-hosted](https://github.com/revdotcom/reverb-self-hosted) - This public GitHub repository contains code for a fully self-hosted, on-premise transcription solution.
@@ -3511,6 +3550,7 @@
 
 ## python 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [ProtonVPN/proton-vpn-gtk-app](https://github.com/ProtonVPN/proton-vpn-gtk-app) - Official ProtonVPN Linux app
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
@@ -3737,6 +3777,7 @@
 
 ## reinforcement-learning 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
@@ -3768,6 +3809,12 @@
 
 ## robotics 
 
+- [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
+- [p-org/P](https://github.com/p-org/P) - The P programming language.
+- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics applicat
 - [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
 - [Pbatch/ClashRoyaleBuildABot](https://github.com/Pbatch/ClashRoyaleBuildABot) - A platform for creating bots to play Clash Royale
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
@@ -3785,6 +3832,8 @@
 
 ## rust 
 
+- [ShelbyJenkins/llm_client](https://github.com/ShelbyJenkins/llm_client) - The Easiest Rust Interface for Local LLMs and an Interface for Deterministic Signals from Probabilistic LLM Vibes
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) - Cranelift based backend for rustc
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
@@ -3873,6 +3922,7 @@
 
 ## security 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [kadenzipfel/smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods
 - [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -4244,10 +4294,12 @@
 
 ## web-development 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
 ## webapp 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [funmaker/Hybooru](https://github.com/funmaker/Hybooru) - Hydrus-based booru-styled imageboard in React
@@ -4256,6 +4308,7 @@
 
 ## website 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - Hand-curated list of awesome and useful websites
 - [TheFutureGadgetsLab/WaifuXL](https://github.com/TheFutureGadgetsLab/WaifuXL) - State of the art image upscaling, directly in your browser.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
