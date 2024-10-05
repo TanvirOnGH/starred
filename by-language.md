@@ -105,7 +105,6 @@
 - [Alex313031/Windows-10-Stuffz](https://github.com/Alex313031/Windows-10-Stuffz) - Windows 8 - 10 equivalent to my other Windows-7-Stuffz and Windows-XP-Stuffz
 - [Alex313031/Windows-7-Stuffz](https://github.com/Alex313031/Windows-7-Stuffz) - Files for Windows 7 that are hard to find because Microsoft took them down.
 - [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11) - 🌎 Windows 11 Settings, Tweaks, Scripts
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
@@ -325,6 +324,7 @@
 
 ## C++ 
 
+- [cyan2k/llama.cpp](https://github.com/cyan2k/llama.cpp) - LLM inference in C/C++
 - [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
@@ -830,6 +830,7 @@
 
 ## Jupyter Notebook 
 
+- [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [weaviate/recipes](https://github.com/weaviate/recipes) - This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1092,6 +1093,8 @@
 
 ## Others 
 
+- [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) - 
+- [revdotcom/reverb-self-hosted](https://github.com/revdotcom/reverb-self-hosted) - This public GitHub repository contains code for a fully self-hosted, on-premise transcription solution.
 - [marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) - Paper list about hyperbolic embedding, hyperbolic models,hyperbolic applications
 - [Aksheet10/Cyber-Security-Resources](https://github.com/Aksheet10/Cyber-Security-Resources) - I have collected many Free Resources. Feel free share more resources
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) - Cybersecurity Career Path
@@ -1249,6 +1252,7 @@
 - [HotCakeX/MicrosoftDomains](https://github.com/HotCakeX/MicrosoftDomains) - This repository lists all active Microsoft domains | no URLs and no sub-domains | for the purpose of Whitelisting in various systems and apps | This is for my personal use but then decided to publish 
 - [HotCakeX/Official-IANA-IP-blocks](https://github.com/HotCakeX/Official-IANA-IP-blocks) - Official-IANA-IP-blocks for each country | IPV4 and IPV6 | TEXT | CSV | JSON
 - [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STI
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ## Processing 
@@ -1257,10 +1261,18 @@
 
 ## Python 
 
+- [vxnuaj/Learning-Arc](https://github.com/vxnuaj/Learning-Arc) - Convoluting η-dimensional tensors over abstract manifolds.
+- [IsaacRe/vllm-kvcompress](https://github.com/IsaacRe/vllm-kvcompress) - KV cache compression for high-throughput LLM inference
+- [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
+- [SerChirag/rs-imle](https://github.com/SerChirag/rs-imle) - RS-IMLE
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+- [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
+- [revdotcom/reverb](https://github.com/revdotcom/reverb) - Open source inference code for Rev's model
 - [KingNish24/Realtime-whisper-large-v3-turbo](https://github.com/KingNish24/Realtime-whisper-large-v3-turbo) - 
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [Annex-Engineering/Annex-Engineering_User_Mods](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods) - mods created by users of ANNEX Engineering printers
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need
 - [Fingel/cosmic-themes-org-py](https://github.com/Fingel/cosmic-themes-org-py) - Website for https://cosmic-themes.org
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
@@ -1616,7 +1628,7 @@
 - [Deepshift/DeepCreamPy](https://github.com/Deepshift/DeepCreamPy) - deeppomf's DeepCreamPy + some updates
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video upscaling framework. Est. Hack the Valley II, 2018.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1734,6 +1746,7 @@
 
 ## Rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [rksm/cargo-add-dynamic](https://github.com/rksm/cargo-add-dynamic) - cargo-add command to make dependencies into dylibs
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
@@ -1968,6 +1981,7 @@
 
 ## TypeScript 
 
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
