@@ -245,6 +245,7 @@
 
 ## C# # 
 
+- [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse) - An Advanced Launcher for miHoYo/HoYoverse Games
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -324,6 +325,8 @@
 
 ## C++ 
 
+- [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
+- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [cyan2k/llama.cpp](https://github.com/cyan2k/llama.cpp) - LLM inference in C/C++
 - [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -381,6 +384,7 @@
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [kalomaze/koboldcpp](https://github.com/kalomaze/koboldcpp) - My personal fork of koboldcpp where I hack in experimental samplers.
+- [HanGuo97/flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
 - [microsoft/T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU with lookup table
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
@@ -468,6 +472,7 @@
 
 ## CSS 
 
+- [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [soulhotel/Perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme) - 
@@ -516,7 +521,6 @@
 
 ## Cuda 
 
-- [HanGuo97/flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 - [likejazz/llama3.cuda](https://github.com/likejazz/llama3.cuda) - llama3.cuda is a pure C/CUDA implementation for Llama 3 model.
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
@@ -576,7 +580,7 @@
 - [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [glitchedgitz/cook](https://github.com/glitchedgitz/cook) - A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers.
@@ -999,6 +1003,7 @@
 
 ## Nix 
 
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
 - [nix-community/nix4nvchad](https://github.com/nix-community/nix4nvchad) - Install NvChad on Nix-based system [maintainer=@Bot-wxt1221, @MOIS3Y]
 - [GTrunSec/hivebus](https://github.com/GTrunSec/hivebus) - A declarative configuration framework based on the structural theory of std.
 - [tao3k/hivebus](https://github.com/tao3k/hivebus) - Transform the collected configurations into various target configurations, inheriting the art of simplifying complexity. Additionally, it possesses the inheritance and extension systems of POP.
@@ -1093,6 +1098,7 @@
 
 ## Others 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) - 
 - [revdotcom/reverb-self-hosted](https://github.com/revdotcom/reverb-self-hosted) - This public GitHub repository contains code for a fully self-hosted, on-premise transcription solution.
 - [marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) - Paper list about hyperbolic embedding, hyperbolic models,hyperbolic applications
@@ -1261,6 +1267,8 @@
 
 ## Python 
 
+- [NVIDIA/NeMo-Aligner](https://github.com/NVIDIA/NeMo-Aligner) - Scalable toolkit for efficient model alignment
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [vxnuaj/Learning-Arc](https://github.com/vxnuaj/Learning-Arc) - Convoluting η-dimensional tensors over abstract manifolds.
 - [IsaacRe/vllm-kvcompress](https://github.com/IsaacRe/vllm-kvcompress) - KV cache compression for high-throughput LLM inference
 - [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
@@ -1357,7 +1365,7 @@
 - [deepghs/imgutils](https://github.com/deepghs/imgutils) - A convenient and user-friendly anime-style image data processing library that integrates various advanced anime-style image processing models
 - [deepghs/hfutils](https://github.com/deepghs/hfutils) - Useful utilities for huggingface
 - [deepghs/waifuc](https://github.com/deepghs/waifuc) - Efficient Train Data Collector for Anime Waifu
-- [deepghs/cyberharem](https://github.com/deepghs/cyberharem) - Cyber Harem of All the Waifus in Games, Mua~
+- [deepghs/cyberharem](https://github.com/deepghs/cyberharem) - 100% Automated Anime Character Lora Training Pipeline
 - [gpt-omni/mini-omni](https://github.com/gpt-omni/mini-omni) - open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [lucidrains/transfusion-pytorch](https://github.com/lucidrains/transfusion-pytorch) - Pytorch implementation of Transfusion, "Predict the Next Token and Diffuse Images with One Multi-Modal Model", from MetaAI
@@ -1377,7 +1385,7 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ibaiGorordo/Sapiens-Pytorch-Inference](https://github.com/ibaiGorordo/Sapiens-Pytorch-Inference) - Minimal code and examnples for inferencing Sapiens foundation human models in Pytorch
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-- [DaniAsh551/wemod-launcher](https://github.com/DaniAsh551/wemod-launcher) - Tool made to launch the popular Game Trainer / Cheat tool WeMod along with your game (made for steam-runtime version in Linux).
+- [DeckCheatz/wemod-launcher](https://github.com/DeckCheatz/wemod-launcher) - Tool made to launch the popular Game Trainer / Cheat tool WeMod along with your game (made for steam-runtime version in Linux).
 - [AkshitIreddy/Interactive-LLM-Powered-NPCs](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) - Interactive LLM Powered NPCs, is an open-source project that completely transforms your interaction with non-player characters (NPCs) in any game! 🎮🤖🚀
 - [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
@@ -1628,7 +1636,7 @@
 - [Deepshift/DeepCreamPy](https://github.com/Deepshift/DeepCreamPy) - deeppomf's DeepCreamPy + some updates
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video upscaling framework. Est. Hack the Valley II, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video super resolution framework. Est. Hack the Valley II, 2018.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1746,6 +1754,8 @@
 
 ## Rust 
 
+- [GabAlpha/basilk](https://github.com/GabAlpha/basilk) - 🪴 A Terminal User Interface (TUI) to manage your tasks with minimal kanban logic
+- [ShelbyJenkins/llm_client](https://github.com/ShelbyJenkins/llm_client) - The Easiest Rust Interface for Local LLMs and an Interface for Deterministic Signals from Probabilistic LLM Vibes
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [rksm/cargo-add-dynamic](https://github.com/rksm/cargo-add-dynamic) - cargo-add command to make dependencies into dylibs
@@ -1981,6 +1991,9 @@
 
 ## TypeScript 
 
+- [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the latest developer news and tools in one tab!
+- [cfahlgren1/webllm-playground](https://github.com/cfahlgren1/webllm-playground) - Run LLMs in the Browser with MLC / WebLLM ✨
+- [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics applicat
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
