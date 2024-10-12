@@ -110,6 +110,8 @@
 
 ## C 
 
+- [apoorvnandan/lilgrad](https://github.com/apoorvnandan/lilgrad) - pytorch from scratch in pure C/CUDA and python
+- [apoorvnandan/tensor.h](https://github.com/apoorvnandan/tensor.h) - tiny tensor library in raw C
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
@@ -741,6 +743,8 @@
 
 ## JavaScript 
 
+- [luben/load-progress-bar](https://github.com/luben/load-progress-bar) - Minimalistic load progress bar addon for Firefox
+- [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus) - New Tab mix plus for modern Firefox
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) - Microsoft Software Download Listing
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
@@ -1937,6 +1941,7 @@
 
 ## Shell 
 
+- [LinSoftWin/Photoshop-CC2022-Linux](https://github.com/LinSoftWin/Photoshop-CC2022-Linux) - Installer from Photoshop CC 2021 to 2022 on linux with a GUI
 - [fahimscirex/proxybd](https://github.com/fahimscirex/proxybd) - auto updated bangladeshi proxy server list
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
@@ -2019,6 +2024,7 @@
 
 ## TypeScript 
 
+- [burhan-syed/troddit](https://github.com/burhan-syed/troddit) - A web client for Reddit with authenticated logins and a variety of browsing options
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
