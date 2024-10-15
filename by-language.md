@@ -111,8 +111,10 @@
 
 ## C 
 
+- [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
+- [bitluni/MagnetMatrix](https://github.com/bitluni/MagnetMatrix) - 
 - [apoorvnandan/lilgrad](https://github.com/apoorvnandan/lilgrad) - pytorch from scratch in pure C/CUDA and python
-- [apoorvnandan/tensor.h](https://github.com/apoorvnandan/tensor.h) - tiny tensor library in raw C
+- [apoorvnandan/tensor.h](https://github.com/apoorvnandan/tensor.h) - creating a tiny tensor library in raw C
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
@@ -332,6 +334,7 @@
 
 ## C++ 
 
+- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) - 
 - [openxla/xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
@@ -452,7 +455,7 @@
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [intel/neural-speed](https://github.com/intel/neural-speed) - An innovative library for efficient LLM inference via low-bit quantization
 - [amd/RyzenAI-SW](https://github.com/amd/RyzenAI-SW) - 
-- [Nexesenex/croco.cpp](https://github.com/Nexesenex/croco.cpp) - Croco.Cpp is a 3rd party testground for KoboldCPP, a simple one-file way to run various GGML/GGUF models with KoboldAI's UI. (for Crocorico.Cpp, in Cuda mode mainly!)
+- [Nexesenex/croco.cpp](https://github.com/Nexesenex/croco.cpp) - Croco.Cpp is a 3rd party testground for KoboldCPP, a simple one-file way to run various GGML/GGUF models with KoboldAI's UI. (for Croco.Cpp, in Cuda mode mainly!)
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [mounta11n/plusplus-camall](https://github.com/mounta11n/plusplus-camall) - After my server ui improvements were successfully merged, consider this repo a playground for experimenting, tinkering and hacking around the ggml library, especially llama.cpp – and primarily its ser
 - [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
@@ -949,6 +952,7 @@
 
 ## Lua 
 
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [raiguard/Krastorio2](https://github.com/raiguard/Krastorio2) - An overhaul mod for Factorio focusing on end-game technologies and moderately increased complexity.
 - [karpathy/char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
@@ -1130,6 +1134,8 @@
 
 ## Others 
 
+- [AUTOMATIC1111/stable-diffusion-webui-extensions](https://github.com/AUTOMATIC1111/stable-diffusion-webui-extensions) - Extension index for stable-diffusion-webui
+- [AUTOMATIC1111/stable-diffusion-webui-feature-showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase) - Feature showcase for stable-diffusion-webui
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [Junyi42/monst3r](https://github.com/Junyi42/monst3r) - Official Implementation of paper "MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion"
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -1302,6 +1308,13 @@
 
 ## Python 
 
+- [astramind-ai/Pulsar](https://github.com/astramind-ai/Pulsar) - The hearth of The Pulsar App, fast, secure and shared inference with modern UI
+- [lifeiteng/OmniSenseVoice](https://github.com/lifeiteng/OmniSenseVoice) - Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯
+- [eloialonso/diamond](https://github.com/eloialonso/diamond) - DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model. NeurIPS 2024 Spotlight.
+- [AUTOMATIC1111/stable-diffusion-webui-promptgen](https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen) - stable-diffusion-webui-promptgen
+- [AUTOMATIC1111/stable-diffusion-webui-pixelization](https://github.com/AUTOMATIC1111/stable-diffusion-webui-pixelization) - stable-diffusion-webui-pixelization
+- [AUTOMATIC1111/stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg) - Removes backgrounds from pictures. Extension for webui.
+- [lshqqytiger/stable-diffusion-webui-amdgpu](https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu) - Stable Diffusion web UI
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [ZacharyZhang-NY/Ollama-Engineer](https://github.com/ZacharyZhang-NY/Ollama-Engineer) - 
 - [OpenSource-O1/Open-O1](https://github.com/OpenSource-O1/Open-O1) - 
