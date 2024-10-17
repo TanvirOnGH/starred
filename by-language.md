@@ -8,6 +8,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
+- [BQN](#bqn)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -100,6 +101,10 @@
 ## Awk 
 
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
+
+## BQN 
+
+- [mlochbaum/BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language
 
 ## Batchfile 
 
@@ -537,6 +542,7 @@
 
 ## Cuda 
 
+- [codereport/array-language-comparisons](https://github.com/codereport/array-language-comparisons) - A comparison of array languages & libraries: APL, J, BQN, Uiua, Q, Julia, R, NumPy, Nial, Futhark, Dex, Ivy, SaC & ArrayFire.
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 - [likejazz/llama3.cuda](https://github.com/likejazz/llama3.cuda) - llama3.cuda is a pure C/CUDA implementation for Llama 3 model.
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
@@ -590,6 +596,7 @@
 
 ## Go 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Edw590/VISOR---A-Voice-Assistant](https://github.com/Edw590/VISOR---A-Voice-Assistant) - V.I.S.O.R., my in-development AI-powered voice assistant with integrated memory!
 - [piqoni/cast-text](https://github.com/piqoni/cast-text) - A zero latency, easy-to-use full-text news terminal reader.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -725,6 +732,8 @@
 
 ## Java 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+- [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
@@ -864,6 +873,7 @@
 
 ## Jinja 
 
+- [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Jupyter Notebook 
@@ -942,6 +952,9 @@
 
 ## Kotlin 
 
+- [ponces/APatchLite](https://github.com/ponces/APatchLite) - The new APatch root solution made simple
+- [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
+- [kevintresuelo/treble](https://github.com/kevintresuelo/treble) - Treble Compatibility Checking App
 - [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
 - [ProtonDriveApps/android-drive](https://github.com/ProtonDriveApps/android-drive) - 
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
@@ -1137,6 +1150,11 @@
 
 ## Others 
 
+- [minimal-manifest-twrp/platform_manifest_twrp_aosp](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp) - Minimal manifest for building TWRP for devices shipped with Android 10+
+- [BiTGApps/BiTGApps-Release](https://github.com/BiTGApps/BiTGApps-Release) - 
+- [nikgapps/config](https://github.com/nikgapps/config) - 
+- [MindTheGapps/15.0.0-arm64](https://github.com/MindTheGapps/15.0.0-arm64) - 
+- [fawazahmed0/Latest-adb-fastboot-installer-for-windows](https://github.com/fawazahmed0/Latest-adb-fastboot-installer-for-windows) - A Simple Android Driver installer tool for windows (Always installs the latest version)
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
 - [AUTOMATIC1111/stable-diffusion-webui-extensions](https://github.com/AUTOMATIC1111/stable-diffusion-webui-extensions) - Extension index for stable-diffusion-webui
 - [AUTOMATIC1111/stable-diffusion-webui-feature-showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase) - Feature showcase for stable-diffusion-webui
@@ -1312,6 +1330,10 @@
 
 ## Python 
 
+- [ThinamXx/PaliGemma](https://github.com/ThinamXx/PaliGemma) - Reading PaliGemma paper ...
+- [nikgapps/project](https://github.com/nikgapps/project) - 
+- [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
+- [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 - [HazyResearch/lolcats](https://github.com/HazyResearch/lolcats) - 
 - [shirley-wu/cot_decoding](https://github.com/shirley-wu/cot_decoding) - 
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
@@ -1818,6 +1840,7 @@
 
 ## Rust 
 
+- [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
@@ -1977,6 +2000,8 @@
 
 ## Shell 
 
+- [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
+- [flamegapps/flamegapps](https://github.com/flamegapps/flamegapps) - The main repository of FlameGApps Project (Discontinued)
 - [LinSoftWin/Photoshop-CC2022-Linux](https://github.com/LinSoftWin/Photoshop-CC2022-Linux) - Installer from Photoshop CC 2021 to 2022 on linux with a GUI
 - [fahimscirex/proxybd](https://github.com/fahimscirex/proxybd) - auto updated bangladeshi proxy server list
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -2110,7 +2135,7 @@
 - [funmaker/Hybooru](https://github.com/funmaker/Hybooru) - Hydrus-based booru-styled imageboard in React
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React site and publish your changes to code.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [bookracy/frontend](https://github.com/bookracy/frontend) - Frontend for Bookracy
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
