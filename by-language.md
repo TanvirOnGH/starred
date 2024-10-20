@@ -117,6 +117,7 @@
 
 ## C 
 
+- [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
@@ -261,6 +262,7 @@
 
 ## C# # 
 
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
@@ -508,6 +510,7 @@
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
 - [accrazed/YoRHA-UI-BetterDiscord](https://github.com/accrazed/YoRHA-UI-BetterDiscord) - Better Discord theme based around NieR: Automata's Menu UI
+- [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles) - A curated list of inspiring GitHub profiles from developers, designers, and tech enthusiasts around the world. This collection showcases profiles known for creativity, contributions, and innovative pr
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [Neikon/Fox11](https://github.com/Neikon/Fox11) - 
@@ -564,6 +567,7 @@
 
 ## Dockerfile 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) - 
 
 ## EJS 
@@ -769,6 +773,7 @@
 
 ## JavaScript 
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [Harvie/cnc-simulator](https://github.com/Harvie/cnc-simulator) - In-browser g-code simulator
 - [xan105/Achievement-Watcher](https://github.com/xan105/Achievement-Watcher) - A sexy achievement file parser with real-time notification, automatic screenshot and playtime tracking. View every achievements earned on your PC whether it's coming from Steam, a Steam emulator, and 
 - [CarrotRub/Fit-Launcher](https://github.com/CarrotRub/Fit-Launcher) - A better version of my previous Fitgirl's Repacks Launcher. Made using Tauri with SolidJS.
@@ -803,7 +808,6 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
-- [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles) - A curated list of inspiring GitHub profiles from developers, designers, and tech enthusiasts around the world. This collection showcases profiles known for creativity, contributions, and innovative pr
 - [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
 - [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -920,7 +924,6 @@
 - [Tribler/De-DSI](https://github.com/Tribler/De-DSI) - 
 - [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) - An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.
 - [lmarena/arena-hard-auto](https://github.com/lmarena/arena-hard-auto) - Arena-Hard-Auto: An automatic LLM benchmark.
-- [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [MedARC-AI/fMRI-reconstruction-NSD](https://github.com/MedARC-AI/fMRI-reconstruction-NSD) - fMRI-to-image reconstruction on the NSD dataset.
@@ -1159,6 +1162,7 @@
 
 ## Others 
 
+- [visiopilot/browser-extension](https://github.com/visiopilot/browser-extension) - AI-Powered Web Automation Chat. This browser extension adds an AI chat widget to every page, allowing you to easily automate hundreds of tasks.
 - [minimal-manifest-twrp/platform_manifest_twrp_aosp](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp) - Minimal manifest for building TWRP for devices shipped with Android 10+
 - [BiTGApps/BiTGApps-Release](https://github.com/BiTGApps/BiTGApps-Release) - 
 - [nikgapps/config](https://github.com/nikgapps/config) - 
@@ -1338,6 +1342,8 @@
 
 ## Python 
 
+- [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - 
 - [not-lain/pxia](https://github.com/not-lain/pxia) - AI library for pxia
@@ -1853,6 +1859,8 @@
 
 ## Rust 
 
+- [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
+- [pythops/lobtui](https://github.com/pythops/lobtui) - 🌐 TUI for lobste.rs website
 - [lotabout/rargs](https://github.com/lotabout/rargs) - xargs + awk with pattern matching support. `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}`
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
@@ -2105,6 +2113,8 @@
 
 ## TypeScript 
 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
+- [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [pimskie/scratch](https://github.com/pimskie/scratch) - Example of scratching a record in the browser
@@ -2195,6 +2205,7 @@
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX.   Provide a Disk Efficient way to manage all your Mods!
+- [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
