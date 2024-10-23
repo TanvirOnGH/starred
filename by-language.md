@@ -125,6 +125,7 @@
 - [apoorvnandan/lilgrad](https://github.com/apoorvnandan/lilgrad) - pytorch from scratch in pure C/CUDA and python
 - [apoorvnandan/tensor.h](https://github.com/apoorvnandan/tensor.h) - creating a tiny tensor library in raw C
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
+- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [distcc/distcc](https://github.com/distcc/distcc) - distributed builds for C, C++ and Objective C
 - [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
 - [snowball-lang/snowball](https://github.com/snowball-lang/snowball) - 🐱 Anything that can be written in Snowball, will eventually be written in Snowball
@@ -556,7 +557,6 @@
 
 ## Dart 
 
-- [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [NO-ob/LoliSnatcher_Droid](https://github.com/NO-ob/LoliSnatcher_Droid) - A booru client with support for batch downloading
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
@@ -775,6 +775,7 @@
 
 ## JavaScript 
 
+- [rbourgeat/airay](https://github.com/rbourgeat/airay) - A simple AI detector (Image & Text)
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [Harvie/cnc-simulator](https://github.com/Harvie/cnc-simulator) - In-browser g-code simulator
 - [xan105/Achievement-Watcher](https://github.com/xan105/Achievement-Watcher) - A sexy achievement file parser with real-time notification, automatic screenshot and playtime tracking. View every achievements earned on your PC whether it's coming from Steam, a Steam emulator, and 
@@ -1165,6 +1166,8 @@
 
 ## Others 
 
+- [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
+- [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [visiopilot/browser-extension](https://github.com/visiopilot/browser-extension) - AI-Powered Web Automation Chat. This browser extension adds an AI chat widget to every page, allowing you to easily automate hundreds of tasks.
 - [minimal-manifest-twrp/platform_manifest_twrp_aosp](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp) - Minimal manifest for building TWRP for devices shipped with Android 10+
 - [BiTGApps/BiTGApps-Release](https://github.com/BiTGApps/BiTGApps-Release) - 
@@ -1306,6 +1309,8 @@
 
 ## PHP 
 
+- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 - [OpenIB/OpenIB](https://github.com/OpenIB/OpenIB) - An infinity fork focused on security.
@@ -1345,6 +1350,12 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) - Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [0xD4rky/Vision-Transformers](https://github.com/0xD4rky/Vision-Transformers) - This repo has all the basic things you'll need in-order to understand complete vision transformer architecture and its various implementations.
+- [beeblebrox/f5-ttsgrpc](https://github.com/beeblebrox/f5-ttsgrpc) - 
 - [gyunggyung/AGI-Papers](https://github.com/gyunggyung/AGI-Papers) - Papers and Book to look at when starting AGI 📚
 - [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
@@ -1567,7 +1578,7 @@
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [ytdl-patched/ytdl-patched](https://github.com/ytdl-patched/ytdl-patched) - yt-dlp fork with some more features
 - [Panchovix/stable-diffusion-webui-reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge) - 
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
@@ -1723,7 +1734,7 @@
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [Vision-CAIR/MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video) - Official code for Goldfish model for long video understanding and MiniGPT4-video for short video understanding
 - [astramind-ai/BitMat](https://github.com/astramind-ai/BitMat) - An efficent implementation of the method proposed in "The Era of 1-bit LLMs"
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, MiniCPM, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Fl
 - [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq) - [MLSys 2024 Best Paper Award] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
 - [IST-DASLab/gptq](https://github.com/IST-DASLab/gptq) - Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".
@@ -1863,6 +1874,7 @@
 
 ## Rust 
 
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -1960,7 +1972,7 @@
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Start recording your screen today ... or be left behind. Works with Ollama. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
@@ -2029,6 +2041,7 @@
 
 ## Shell 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [flamegapps/flamegapps](https://github.com/flamegapps/flamegapps) - The main repository of FlameGApps Project (Discontinued)
 - [LinSoftWin/Photoshop-CC2022-Linux](https://github.com/LinSoftWin/Photoshop-CC2022-Linux) - Installer from Photoshop CC 2021 to 2022 on linux with a GUI
@@ -2119,6 +2132,8 @@
 
 ## TypeScript 
 
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
+- [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
